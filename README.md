@@ -1,8 +1,7 @@
 # Low-cortisol
-<div style="text-align: center;">
-  <p>
-    <img src="assets/md-images/md-front/upc_logo.png" alt="Logo UPC" width="150px" />
-  </p>
+<center>
+  <img src="assets/md-images/md-front/upc_logo.png" width="150px" />
+
   <p>Universidad Peruana de Ciencias Aplicadas</p>
   <p>Facultad de Ingeniería</p>
   <p>Carrera: Ingeniería de Software</p>
@@ -14,4 +13,4 @@
   <p><b>Informe de Trabajo Final</b></p>
   <p>Nombre del startup: Low cortisol</p>
   <p>Nombre del producto: Low cortisol</p>
-</div>
+</center>
