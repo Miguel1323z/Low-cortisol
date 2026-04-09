@@ -435,7 +435,7 @@ text
   </tr>
   <tr>
     <td colspan="2">Nombre y logo de competidor</td>
-    <td><b>LowCortisol <img src="assets/logo_electrocorp.jpeg" alt="Smart" width="120" height="120" /> </b></td>
+    <td><b>LowCortisol <img src="" width="120" height="120" /> </b></td>
     <td><b>Producto 1</b> <img src="" width="120" height="120" /> </td>
     <td><b>Producto 2</b> <img src="" width="120" height="120" /> </td>
     <td><b>Producto 3</b> <img src="" width="120" height="120" /> </td>
