@@ -347,10 +347,10 @@ text
 
 text
 
-**Business Outcome:** text
-**Users:** text
-**User Outcome:** text
-**Feature:** text
+**Business Outcome:** text<br>
+**Users:** text<br>
+**User Outcome:** text<br>
+**Feature:** text<br>
 
 #### 1.2.2.1 Lean UX Canvas
 
