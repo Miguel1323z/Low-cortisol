@@ -12,8 +12,8 @@
   <p>NRC: 12144</p>
   <p>Nombre del profesor: Efraín Ricardo Bautista Ubillús</p>
   <p><b>Informe de Trabajo Final</b></p>
-  <p>Nombre del startup: Low cortisol</p>
-  <p>Nombre del producto: Low cortisol</p>
+  <p>Nombre del startup: LowCortisol</p>
+  <p>Nombre del producto: LowCortisol</p>
 
 </div>
 
