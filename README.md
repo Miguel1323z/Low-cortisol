@@ -329,19 +329,19 @@ text
 
 text
 
-**Business Outcome:** text
-**Users:** text
-**User Outcome:** text
-**Feature:** text
+**Business Outcome:** text<br>
+**Users:** text<br>
+**User Outcome:** text<br>
+**Feature:** text<br>
 
 ###### Hipótesis 2:
 
 text
 
-**Business Outcome:** text
-**Users:** text
-**User Outcome:** text
-**Feature:** text
+**Business Outcome:** text<br>
+**Users:** text<br>
+**User Outcome:** text<br>
+**Feature:** text<br>
 
 ###### Hipótesis 3:
 
