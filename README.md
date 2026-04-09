@@ -331,23 +331,23 @@ text
 
 **Business Outcome:** text
 **Users:** text
-**User Outcome:** text  
+**User Outcome:** text
 **Feature:** text
 
 ###### Hipótesis 2:
 
 text
 
-**Business Outcome:** text  
-**Users:** text  
-**User Outcome:** text  
+**Business Outcome:** text
+**Users:** text
+**User Outcome:** text
 **Feature:** text
 
 ###### Hipótesis 3:
 
 text
 
-**Business Outcome:** text  
+**Business Outcome:** text
 **Users:** text
 **User Outcome:** text
 **Feature:** text
