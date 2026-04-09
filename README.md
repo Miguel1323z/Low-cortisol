@@ -38,7 +38,7 @@
         <td>Delgado Perez, James Caleb</td>
       </tr>
       <tr>
-        <td>U--------</td>
+        <td>U20241E406</td>
         <td>Loa Rojas, Jean Franck</td>
       </tr>
       <tr>
@@ -228,8 +228,8 @@ A continuación, se detallan los repositorios utilizados a lo largo del proyecto
 Objetivo general, ABET – EAC - Student Outcome 3: Capacidad de comunicarse efectivamente con un rango de audiencias.
 | Criterio Especifico | Acciones realizadas | Conclusiones |
 |--|--|--|
-| Comunica oralmente con efectividad a diferentes rangos de audiencia. | Sebastian Tavara <br>TB1:<br> TP1: <br> TB2: <br> TF1: <br> <br> Diego Cabrejos <br>TB1:<br> TP1: <br> TB2: <br> TF1: <br> <br> Jean Loa <br> TB1: <br> TP1: <br> TB2: <br> TF1: |	 |
-| Comunica por escrito con efectividad a diferentes rangos de audiencia | Sebastian Tavara <br>TB1:<br> TP1: <br> TB2: <br> TF1: <br> <br> Diego Cabrejos <br>TB1:<br> TP1: <br> TB2: <br> TF1: <br> <br> Jean Loa <br> TB1: <br> TP1: <br> TB2: <br> TF1: |	 |
+| Comunica oralmente con efectividad a diferentes rangos de audiencia. | Miguel Condori <br>TB1:<br> TP1: <br> TB2: <br> TF1: <br> <br> James Delgado <br>TB1:<br> TP1: <br> TB2: <br> TF1: <br> <br> Jean Loa <br> TB1: <br> TP1: <br> TB2: <br> TF1: |	 |
+| Comunica por escrito con efectividad a diferentes rangos de audiencia | Miguel Condori <br>TB1:<br> TP1: <br> TB2: <br> TF1: <br> <br> James Delgado <br>TB1:<br> TP1: <br> TB2: <br> TF1: <br> <br> Jean Loa <br> TB1: <br> TP1: <br> TB2: <br> TF1: |	 |
 
 
 # Capitulo I: Introducción
@@ -237,139 +237,120 @@ Objetivo general, ABET – EAC - Student Outcome 3: Capacidad de comunicarse efe
 ## 1.1. StartUp Profile
 
 ### 1.1.1. Descripción de la StartUp
-Es una startup de tecnologia enfocada en democratizar la domótica y la eficiencia energética para los hogares peruanos. 
-<br><br>
-Actualmesnte, el convertir una casa tradicional en un "hogar inteligente" es percibido como un lujo costoso, que requiere modificar el cableado eléctrico, contratar técnicos especializados y lidiar con aplicaciones genéricas que no reflejan la realidad del consumo local o que simplemente son complicados de comprender. Además, los altos costos de energía eléctrica son una preocupación constante para las familias y negocios nuevos.
-<br><br>
-Hemos desarrollado un ecosistema IoT (Internet de las Cosas) plug-and-play que se instala en minutos sobre los interruptores y enchufes existentes, sin necesidad de romper paredes, quebrar techos, ni alterar la red eléctrica. A través de nuestra plataforma web y móvil, los usuarios pueden controlar sus electrodomésticos de forma remota, podran programar horarios de encendido y monitorear el consumo de energia de su hogar en tiempo real.
+
 
 ---
 
 ## Misión
 
-Nuestra misión es brindar a las familias peruanas soluciones de domótica accesibles y de fácil instalación que les permitan tomar el control de su consumo eléctrico, optimizando su presupuesto mediante tecnología inteligente.
-
 ---
 
 ## Visión
 
-Queremos que ElectroCorp sea el referente en el Perú en gestión energética residencial, transformando los hogares tradicionales en espacios eficientes y sostenibles que alivien la economía familiar y contribuyan al cuidado del medio ambiente.
 
 ### 1.1.2. Perfiles de integrantes del equipo
 | **Nombre Completo del integrante**    |	**Descripcion de la carrera** | **Fotografia** | **Conocimientos y habilidades**
 | :------------------------------------ |:------------------------------------ |:------------------------------------ |:------------------------------------ |
-| Tavara Correa, Sebastian Oswaldo      |Ingeniería de Software Universidad Peruana de Ciencias Aplicadas | <img src="assets/foto-carnet-sebastian-tavara.jpg"> | Soy Sebastian Oswaldo Tavara Correa estudiante de la carrera de ingeniería de software, actualmente cursando el 5to ciclo, me considero una persona estudiosa y muy colaborativa al trabajar en grupo. Me adapto rápidamente a cualquier entorno. Me interesa desarrollar soluciones tecnológicas que tengan un impacto positivo. Creo que el desarrollo de software no debe limitarse en buscar la mayor funcionalidad, sino que también en generar bienestar en la sociedad.
-| Santiago Atanacio, Jairo Mathias      |Ingeniería de Software Universidad Peruana de Ciencias Aplicadas| <img src="assets/Jairo_Santiago.png"> | Soy Jairo Mathias Santiago Atanacio, estudiante de 5to ciclo de Ingeniería de Software. Cuento con una base sólida en el desarrollo de algoritmos en C++, la creación de interfaces web interactivas mediante HTML, CSS y JavaScript, y el dominio de bases de datos relacionales (MySQL) y no relacionales (MongoDB). Me apasiona transformar problemas complejos en soluciones de software eficientes, escalables y con una gestión de datos versátil. Mi enfoque combina la rigurosidad técnica con habilidades blandas como la proactividad y la empatía, lo que me permite integrarme fácilmente en equipos colaborativos bajo metodologías ágiles.
-| Cabrejos Chocco, Diego Alexander      |Ingeniería de Software Universidad Peruana de Ciencias Aplicadas | foto | Soy Diego Alexander Cabrejos Chocco estudiante de la carrera de ingeniería de software, actualmente cursando el 5to ciclo, soy una persona sociable, creativa, que trabaja bien en equipo y busco que todo el equipo participe en las actividades activamente. Me adapto rapidamente a la modalidad de trabajo. Mi meta es poder crear y desarrollar proyectos tecnologicos que tenga un impacto positivo y que sea entretenido. Lo mas interesante de la Software es que cada vez se va expandiendo, y las opciones para poder desarrollar algun proyecto por mas interesante o loco que paresca el tema, no es impedimento para desarrollar lo que desees. (claro que siempre siguiendo el tema legal)
-| Loa Rojas, Jean Franck      |Ingeniería de Software Universidad Peruana de Ciencias Aplicadas| foto | Soy Jean Franck Loa Rojas, estudiante de 5to ciclo de la carrera de Ingeniería de Software. Actualmente estoy abierto a oportunidades laborales para emplear mis conocimientos en programación y obtener experiencia trabajando de la mano con conocedores y profesionales de mi rubro académico. Estoy emocionado por todo lo que puede venir en el futuro, y las colaboraciones tecnológicas entre países para compartir conocimiento y prosperar una nación unida y pacífica.
-| Integrante 5      |carrera| foto | text
+| Condori Torres, Miguel Anibal      |Ingeniería de Software Universidad Peruana de Ciencias Aplicadas | <img src=""> | text
+| Delgado Perez, James Caleb      |Ingeniería de Software Universidad Peruana de Ciencias Aplicadas| <img src=""> | text
+| Loa Rojas, Jean Franck      |Ingeniería de Software Universidad Peruana de Ciencias Aplicadas | foto | Soy Jean Franck Loa Rojas, estudiante de 5to ciclo de la carrera de Ingeniería de Software. Actualmente estoy abierto a oportunidades laborales para emplear mis conocimientos en programación y obtener experiencia trabajando de la mano con conocedores y profesionales de mi rubro académico. Estoy emocionado por todo lo que puede venir en el futuro, y las colaboraciones tecnológicas entre países para compartir conocimiento y prosperar una nación unida y pacífica.
+| Montalvo Vasquez, Bruno Rodrigo      |carrera| <img src=""> | text
+| Quiliano Motta, Kirk Douglas      |carrera| <img src=""> | text
 
 ## 1.2 *Solution Profile*
 ### 1.2.1 Antecedentes y problemática
-La energía eléctrica, es uno de los recursos más importantes de nuestra sociedad actual, ayudándonos a desarrollar multiplicidad de tareas, ya sea en el hogar, escuelas, universidades, calles, empresas, trabajos, congreso, etc. Actualmente existen enchufes inteligentes que ayudan al gestionamiento de la energía eléctrica en casas de lujo, hoteles y demás zonas de alto prestigio y valor económico. Pero qué sucede con aquellas personas o familias que quieren gestionar su electricidad o controlar su energía en casa, pero que no cuentan con los recursos necesarios para poder costearse estos lujos.
+
 
 ## 5W & 2H
 ## Objetivos
 ## Restricciones
 ### 1.2.2 Lean UX Process
 #### 1.2.2.1 Lean UX Problem Statements
-Los hogares urbanos y pequeños negocios en el Perú enfrentan grandes dificultades para modernizar su infraestructura eléctrica y adoptar tecnologías de domótica. Actualmente, convertir una vivienda tradicional en un "hogar inteligente" es percibido como un lujo costoso que requiere modificaciones invasivas en el cableado, la ruptura de paredes y la contratación de técnicos especializados. Esta situación limita el acceso a la tecnología y mantiene una preocupación constante por los altos costos de energía eléctrica, los cuales afectan directamente la economía de las familias de clase media y la rentabilidad de los nuevos emprendimientos.
-
-El problema central es que los propietarios y administradores carecen de una herramienta digital accesible y adaptada a la realidad de las viviendas con más de 10 años de antigüedad, que les permita monitorear y controlar el consumo de energía de manera sencilla. Las soluciones actuales en el mercado son complejas de configurar o utilizan aplicaciones genéricas que no reflejan el gasto real en moneda local (Soles). La ausencia de un control eficiente contribuye a desperdicios energéticos y sobrecostos significativos en los recibos de luz, representando una carga económica que impacta el presupuesto mensual de los usuarios.
-
-ElectroCorp responde a esta necesidad con un ecosistema IoT plug-and-play diseñado para instalarse en minutos sobre interruptores y enchufes existentes, sin necesidad de alterar la red eléctrica ni realizar obras civiles. A través de nuestra plataforma web y móvil intuitiva, facilitamos el control remoto de dispositivos, la programación de horarios y el monitoreo del consumo en tiempo real. Esto no solo democratiza el acceso a la domótica en el Perú, sino que empodera al usuario para optimizar su gasto energético y transformar su entorno en un espacio eficiente y sostenible.
+text
 
 #### 1.2.2.1 Lean UX Assumptions
 
  + **User Assumptions:** 
 
-###### ¿Quién es el usuario?
+###### Pregunta 1
 
-Los usuarios de ElectroCorp se dividen en dos grupos principales. Primero, los usuarios residenciales, conformados por familias de clase media que viven en zonas urbanas con viviendas de infraestructura antigua y buscan reducir su gasto mensual de luz sin realizar obras civiles. Segundo, los usuarios comerciales, que incluyen dueños y administradores de pequeños negocios (talleres, oficinas y restaurantes) que necesitan optimizar sus costos operativos y asegurar que sus equipos eléctricos funcionen de manera eficiente y segura.
+text
 
-###### ¿Dónde encaja nuestro producto, en su trabajo o en su vida?
+###### Pregunta 2
 
-En el ámbito residencial, ElectroCorp se integra en la vida diaria y en la planificación financiera del hogar, permitiendo a los usuarios gestionar su entorno de manera remota y consciente. En el ámbito comercial, se convierte en una herramienta estratégica de gestión operativa que ayuda a los dueños de negocios a controlar el gasto energético de sus locales y mejorar la seguridad al finalizar la jornada laboral.
+text
 
-###### ¿Qué problema resuelve nuestro producto?
+###### Pregunta 3
 
-ElectroCorp soluciona la alta barrera de entrada a la domótica en el Perú, eliminando la necesidad de modificar el cableado eléctrico o realizar costosas remodelaciones. Resuelve la falta de visibilidad sobre el consumo energético real, permitiendo a los usuarios identificar qué dispositivos generan un gasto excesivo y tomar medidas preventivas para reducir el monto de sus recibos de luz en moneda local.
+text
 
-###### ¿Cuándo y cómo se utiliza nuestro producto?
+###### Pregunta 4
 
-La plataforma se utiliza de forma continua mediante el monitoreo en tiempo real desde dispositivos móviles o web. Los usuarios interactúan con ella principalmente al salir de casa o del negocio para verificar que todo esté apagado, al programar horarios automáticos para electrodomésticos de alto consumo (como termas o maquinaria) y al recibir notificaciones de alerta cuando se detectan picos de consumo inusuales.
+text
 
-###### ¿Qué características son importantes?
+###### Pregunta 5
 
-- Instalación física no invasiva (Plug & Play) sobre interruptores y enchufes existentes.
+text
 
-- Monitoreo del consumo eléctrico traducido directamente a Soles (S/).
+###### Pregunta 6
 
-- Control remoto y programación de horarios desde una interfaz web y móvil sencilla.
-
-- Sistema de alertas preventivas ante consumos elevados o dispositivos encendidos innecesariamente.
-
-- Interfaz en español diseñada para ser comprendida por usuarios sin conocimientos técnicos avanzados.
-
-###### ¿Cómo debe verse y comportarse nuestro producto?
-
-ElectroCorp debe proyectar una imagen de modernidad, eficiencia y simplicidad. La interfaz debe ser intuitiva y fluida, con indicadores visuales claros (gráficos de consumo) que faciliten la interpretación de los datos financieros. El comportamiento del sistema debe ser altamente confiable y seguro, transmitiendo al usuario la tranquilidad de tener el control total de su infraestructura eléctrica en la palma de su mano.
+text
 
  + **Business Outcomes:**
 
-1. **Creo que mis clientes necesitan:** Una forma económica y sencilla de automatizar su hogar y controlar su gasto eléctrico sin hacer obras.
+1. **title**: text
 
-2. **Estas necesidades se pueden resolver con:** Un ecosistema IoT plug-and-play que se instala sobre la infraestructura eléctrica existente.
+2. **title**: text
 
-3. **Mis clientes iniciales son (o serán):** Familias de clase media en zonas urbanas con viviendas de más de 10 años e inquilinos de departamentos.
+3. **title**: text
 
-4. **El valor #1 que un cliente quiere de mi servicio es:** Ahorro de dinero en el recibo de luz y comodidad en el control de sus dispositivos.
+4. **title**: text
 
-5. **El cliente también puede obtener estos beneficios adicionales:** Mayor seguridad al evitar cortocircuitos por equipos encendidos y reportes de consumo detallados.
+5. **title**: text
 
-6. **Voy a adquirir la mayoría de mis clientes a través de:** Publicidad segmentada en redes sociales (Facebook/Instagram) y alianzas con ferreterías locales.
+6. **title**: text
 
-7. **Haré dinero a través de:** La venta directa del hardware (kits) y un modelo de suscripción opcional para funciones avanzadas de análisis de energía.
+7. **title**: text
 
-8. **Mi competencia principal en el mercado será:** Marcas globales como Xiaomi y Sonoff, además de enchufes genéricos en retail.
+8. **title**: text
 
-9. **Los venceremos debido a:** Nuestra instalación no invasiva (sin cables) y la visualización de costos directamente en Soles (S/).
+9. **title**: text
 
-10. **Mi mayor riesgo de producto es:** Que el hardware no encaje físicamente en algunos modelos de interruptores antiguos muy específicos.
+10. **title**: text
 
-11. **Resolveremos esto a través de:** Pruebas piloto con usuarios reales y el diseño de adaptadores universales ajustables.
+11. **title**: text
 
-12. **¿Qué otras suposiciones tenemos?:** Suponemos que la conexión Wi-Fi en los hogares peruanos es lo suficientemente estable para el control remoto.
+12. **title**: text
 
 
 #### 1.2.2.1 Lean UX Hypothesis Statements
 
 ###### Hipótesis 1:
 
-Creemos que al ofrecer dispositivos IoT que no requieren modificar el cableado eléctrico ni realizar obras civiles, lograremos una adopción masiva en hogares urbanos con infraestructura antigua. Esto será posible gracias a un sistema de instalación externa que se coloca sobre los interruptores existentes, eliminando la necesidad de técnicos especializados.
+text
 
-**Business Outcome:** Alta penetración en el mercado de viviendas antiguas y reducción de barreras de entrada para nuevos clientes.  
-**Users:** Familias de clase media en viviendas urbanas antiguas e inquilinos que no pueden modificar su infraestructura.  
-**User Outcome:** Automatización inmediata del hogar sin costos de instalación profesional ni daños a la propiedad.  
-**Feature:** Hardware IoT plug-and-play adaptable a interruptores y enchufes tradicionales.
+**Business Outcome:** text
+**Users:** text
+**User Outcome:** text  
+**Feature:** text
 
 ###### Hipótesis 2:
 
-Consideramos que si proporcionamos una plataforma digital (web y móvil) intuitiva, en español y adaptada al contexto local, los usuarios tendrán mayor confianza y utilizarán el sistema de manera regular para gestionar sus hogares y negocios.
+text
 
-**Business Outcome:** Incremento en la retención de usuarios activos y fidelización de marca mediante una experiencia de uso simplificada.  
-**Users:** Usuarios residenciales y dueños de pequeños negocios con diversos niveles de habilidades tecnológicas.  
-**User Outcome:** Acceso sencillo y seguro al control de dispositivos eléctricos sin barreras de idioma o complejidad técnica.  
-**Feature:** Interfaz de usuario (UI) intuitiva con guías de configuración integradas en español.
+**Business Outcome:** text  
+**Users:** text  
+**User Outcome:** text  
+**Feature:** text
 
 ###### Hipótesis 3:
 
-Suponemos que al demostrar un ahorro tangible en el recibo de luz mediante el monitoreo del consumo en Soles (S/) en tiempo real, los clientes estarán dispuestos a pagar por el producto y recomendarlo activamente en su entorno.
+text
 
-**Business Outcome:** Crecimiento sostenido de ventas basado en el retorno de inversión (ROI) positivo para el cliente y recomendaciones boca a boca.  
-**Users:** Jefes de hogar y administradores de pequeños negocios preocupados por los altos costos fijos de energía.  
-**User Outcome:** Reducción del gasto mensual de energía y optimización del presupuesto familiar o comercial. 
-**Feature:** Panel de monitoreo de consumo en tiempo real con conversión automática de Watts a Soles (S/).
+**Business Outcome:** text  
+**Users:** text
+**User Outcome:** text
+**Feature:** text
 
 #### 1.2.2.1 Lean UX Canvas
 
@@ -378,55 +359,55 @@ Suponemos que al demostrar un ahorro tangible en el recibo de luz mediante el mo
 <tr>  
 <td>  
 <h2>Business Problem</h2>  
-- La mayoría de las soluciones de domótica requieren modificar la infraestructura eléctrica, lo que encarece su implementación.  <br>
-- Los hogares en el Perú no están diseñados para la automatización, generando barreras técnicas.  <br>
-- Existe poca accesibilidad a soluciones IoT económicas para familias de ingresos medios y bajos.
+- text.  <br>
+- text.  <br>
+- text.
 </td>  
 <td>  
 <h2>Solutions</h2>  
--   Módulo IoT "No-Neutro" ultracompacto: Un dispositivo basado en ESP32 y relé que sea lo suficientemente pequeño para caber en las cajas eléctricas estándar de las paredes peruanas sin requerir el cable neutro. <br>
--   Interruptores _Plug & Play_: Placas de interruptores táctiles o físicos que ya traigan el módulo inteligente integrado y se instalen exactamente igual que un interruptor tradicional. <br>
--  Kits de inicio pre-configurados:** Paquetes como "Kit Habitación" o "Kit Sala" donde los dispositivos ya vienen emparejados entre sí, listos para instalar sin configuraciones complejas.
+-  title: text. <br>
+-  title: text. <br>
+-  title: text.
 </td>  
 <td>  
 <h2>Business Outcomes</h2>  
-- Incrementar la adopción de hogares inteligentes en sectores urbanos y semiurbanos.  <br>
-- Reducir los costos energéticos en hogares y pequeños negocios mediante control eficiente. <br>  
-- Posicionar a SmartHome Control como solución peruana innovadora y accesible.
+- text. <br>
+- text. <br>  
+- text.
 </td>  
 </tr>  
 <tr>  
 <td>  
 <h2>Users</h2>  
-- Familias de clase media en zonas urbanas que buscan comodidad y ahorro energético. <br>
-- Propietarios de pequeños negocios y oficinas que desean optimizar consumo eléctrico.
+- text. <br>
+- text.
 </td>  
 <td></td>  
 <td>  
 <h2>User Outcomes & Benefits</h2>  
-- Automatizar el control de luces y dispositivos sin hacer modificaciones costosas.  <br>
-- Gestionar sus electrodomésticos desde el celular o la computadora, en tiempo real.  <br>
-- Obtener reportes o alertas sobre el estado de los dispositivos para mayor seguridad y eficiencia.
+- text.  <br>
+- text.  <br>
+- text.
 </td>  
 </tr>  
 <tr>  
 <td>  
 <h2>Hypotheses</h2>  
-- Dispositivos sin obras facilitarán la adopción masiva en viviendas antiguas. <br>
-- Una app intuitiva en español generará mayor confianza y uso regular. <br>
-- Visualizar el ahorro económico en soles (S/) mediante el monitoreo en tiempo real motivará la compra.
+- text. <br>
+- text. <br>
+- text.
 </td>  
 <td>  
-<h2>What’s the most important thing we need to learn first?</h2>  
-- Validar la confianza del usuario en la seguridad del hardware no invasivo. <br>
-- Confirmar si el monitoreo en Soles (S/) es un factor decisivo de compra. <br>
-- Verificar la estabilidad de la conexión Wi-Fi en viviendas de infraestructura antigua.
+<h2>Pregunta 1</h2>  
+- text. <br>
+- text. <br>
+- text.
 </td>  
 <td>  
-<h2>What’s the least amount of work we need to do to learn the next most important thing?</h2>  
-- Lanzar una Landing Page con video demostrativo y lista de espera.  <br>
-- Realizar entrevistas a profundidad con dueños de hogares y pequeñas empresas.  <br>
-- Crear un Mock-up interactivo del panel de control de ahorro en Soles.
+<h2>Pregunta 2</h2>  
+- text.  <br>
+- text.  <br>
+- text.
 </td>  
 </tr>  
 </table>
@@ -434,15 +415,15 @@ Suponemos que al demostrar un ahorro tangible en el recibo de luz mediante el mo
 ## 1.3 Segmentos objetivo
 El proyecto busca atender a usuarios que requieren soluciones de automatización accesibles y no invasivas, con un enfoque en dos segmentos principales:
 
-- Hogares urbanos con viviendas antiguas (más de 10 años de construcción).  
-Este segmento comprende familias de clase media que residen en departamentos y casas en zonas urbanas, donde la infraestructura eléctrica fue instalada hace más de una década y no está diseñada para la domótica. Según el Censo Nacional 2017 del INEI, aproximadamente 79,3 % de la población peruana vive en áreas urbanas (INEI, 2017). Dada la antigüedad de gran parte de estas viviendas, existe una alta necesidad de modernización mediante soluciones que no requieran remodelaciones eléctricas costosas. Nuestro producto responde directamente a esta problemática al ofrecer automatización sin modificaciones en el cableado.
-- Pequeños negocios y talleres en zonas urbanas.  
-Este segmento incluye comercios, oficinas, talleres y restaurantes que buscan optimizar el uso de sus dispositivos eléctricos, reducir costos operativos y mejorar la seguridad. En el Perú, las micro y pequeñas empresas representan el 99,2 % del tejido empresarial nacional (Ministerio de la Producción, 2023) y más del 91 % de ellas operan en zonas urbanas (ComexPerú, 2022). Estos negocios generalmente se establecen en locales con instalaciones tradicionales, lo que dificulta la implementación de domótica. SmartHome Control ofrece una solución práctica y económica, adaptada a su infraestructura y a sus necesidades de ahorro energético.
+- Segmento 1.  
+text.
+- Segmento 2.  
+text.
 # Capitulo II: Requirements Elicitation & Analysis
 ## 2.1 Competidores
-En este apartado, examinamos el ecosistema de soluciones existentes en el mercado peruano que ofrecen servicios de automatización residencial y gestión de dispositivos eléctricos. 
+text. 
 ### 2.1.1 Análisis Competitivo
-A través de esta comparativa, buscamos determinar el valor diferencial de ElectroCorp frente a las alternativas globales. El análisis se enfoca en detectar necesidades no resueltas por las grandes marcas, especialmente en lo que respecta a la adaptabilidad a la infraestructura eléctrica peruana (instalación sin obra civil) y la interpretación financiera del consumo energético en moneda local.
+text
 
 <table border="1" cellpadding="5" cellspacing="0">
   <tr>
