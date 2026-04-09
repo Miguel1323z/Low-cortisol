@@ -228,8 +228,8 @@ A continuación, se detallan los repositorios utilizados a lo largo del proyecto
 Objetivo general, ABET – EAC - Student Outcome 3: Capacidad de comunicarse efectivamente con un rango de audiencias.
 | Criterio Especifico | Acciones realizadas | Conclusiones |
 |--|--|--|
-| Comunica oralmente con efectividad a diferentes rangos de audiencia. | Miguel Condori <br>TB1:<br> TP1: <br> TB2: <br> TF1: <br> <br> James Delgado <br>TB1:<br> TP1: <br> TB2: <br> TF1: <br> <br> Jean Loa <br> TB1: <br> TP1: <br> TB2: <br> TF1: |	 |
-| Comunica por escrito con efectividad a diferentes rangos de audiencia | Miguel Condori <br>TB1:<br> TP1: <br> TB2: <br> TF1: <br> <br> James Delgado <br>TB1:<br> TP1: <br> TB2: <br> TF1: <br> <br> Jean Loa <br> TB1: <br> TP1: <br> TB2: <br> TF1: |	 |
+| Comunica oralmente con efectividad a diferentes rangos de audiencia. | Miguel Condori <br>TB1:<br> TP1: <br> TB2: <br> TF1: <br> <br> James Delgado <br>TB1:<br> TP1: <br> TB2: <br> TF1: <br> <br> Jean Loa <br> TB1: <br> TP1: <br> TB2: <br> TF1: <br> <br> Bruno Montalvo <br> TB1: <br> TP1: <br> TB2: <br> TF1:<br> <br> Kirk Quiliano <br> TB1: <br> TP1: <br> TB2: <br> TF1:|	 |
+| Comunica por escrito con efectividad a diferentes rangos de audiencia | Miguel Condori <br>TB1:<br> TP1: <br> TB2: <br> TF1: <br> <br> James Delgado <br>TB1:<br> TP1: <br> TB2: <br> TF1: <br> <br> Jean Loa <br> TB1: <br> TP1: <br> TB2: <br> TF1: <br> <br> Bruno Montalvo <br> TB1: <br> TP1: <br> TB2: <br> TF1:<br> <br> Kirk Quiliano <br> TB1: <br> TP1: <br> TB2: <br> TF1:|	 |
 
 
 # Capitulo I: Introducción
@@ -253,7 +253,7 @@ Objetivo general, ABET – EAC - Student Outcome 3: Capacidad de comunicarse efe
 | :------------------------------------ |:------------------------------------ |:------------------------------------ |:------------------------------------ |
 | Condori Torres, Miguel Anibal      |Ingeniería de Software Universidad Peruana de Ciencias Aplicadas | <img src=""> | text
 | Delgado Perez, James Caleb      |Ingeniería de Software Universidad Peruana de Ciencias Aplicadas| <img src=""> | text
-| Loa Rojas, Jean Franck      |Ingeniería de Software Universidad Peruana de Ciencias Aplicadas | foto | Soy Jean Franck Loa Rojas, estudiante de 5to ciclo de la carrera de Ingeniería de Software. Actualmente estoy abierto a oportunidades laborales para emplear mis conocimientos en programación y obtener experiencia trabajando de la mano con conocedores y profesionales de mi rubro académico. Estoy emocionado por todo lo que puede venir en el futuro, y las colaboraciones tecnológicas entre países para compartir conocimiento y prosperar una nación unida y pacífica.
+| Loa Rojas, Jean Franck      |Ingeniería de Software Universidad Peruana de Ciencias Aplicadas | <img src=""> | Soy Jean Franck Loa Rojas, estudiante de 5to ciclo de la carrera de Ingeniería de Software. Actualmente estoy abierto a oportunidades laborales para emplear mis conocimientos en programación y obtener experiencia trabajando de la mano con conocedores y profesionales de mi rubro académico. Estoy emocionado por todo lo que puede venir en el futuro, y las colaboraciones tecnológicas entre países para compartir conocimiento y prosperar una nación unida y pacífica.
 | Montalvo Vasquez, Bruno Rodrigo      |carrera| <img src=""> | text
 | Quiliano Motta, Kirk Douglas      |carrera| <img src=""> | text
 
