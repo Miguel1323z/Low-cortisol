@@ -435,72 +435,62 @@ text
   </tr>
   <tr>
     <td colspan="2">Nombre y logo de competidor</td>
-    <td><b>ElectroCorp <img src="assets/logo_electrocorp.jpeg" alt="Smart" width="120" height="120" /> </b></td>
-    <td><b> Sonoff Peru</b> <img src="assets/sonoff.png" width="120" height="120" /> </td>
-    <td><b>Xiaomi Mi Smart Plug</b> <img src="assets/xiaomi.png" width="120" height="120" /> </td>
-    <td><b>Smart Plugs</b> <img src="assets/promart.png" width="120" height="120" /> </td>
+    <td><b>LowCortisol <img src="assets/logo_electrocorp.jpeg" alt="Smart" width="120" height="120" /> </b></td>
+    <td><b>Producto 1</b> <img src="" width="120" height="120" /> </td>
+    <td><b>Producto 2</b> <img src="" width="120" height="120" /> </td>
+    <td><b>Producto 3</b> <img src="" width="120" height="120" /> </td>
   </tr>
   <tr>
     <td rowspan="2"><b>Perfil</b></td>
     <td><b>Overview</b></td>
-    <td> Startup peruana de tecnología enfocada en democratizar la domótica mediante un ecosistema IoT plug-and-play que se instala sobre interruptores y enchufes existentes sin modificar el cableado eléctrico. </td>
-    <td> Ofrece variedad en enchufes, interruptores, relés WIFI y dispositivos para automatización del hogar. Su funcionamiento es simple, se conecta directamente a la red electrica y se controla mediante la app eWeLink.</td>
-    <td>Es un enchufre inteligente que convierte cualquier dispositivo electrico en un aparato “inteligente”. Permitiendo asi: encender/apagar remotamente, programar horarios y controlar el consumo electrico desde la app llamada “Xiaomi Home”.</td>
-    <td>Promart entre muchos otros productos comercializa enchufes inteligentes (Smart Plugs) Con la funcion de poder encender/apagar remotamente, temporizador, conexion WIFI y control mediante la app.</td>
+    <td> text </td>
+    <td> text </td>
+    <td> text </td>
+    <td> text </td>
   </tr>
   <tr>
     <td><b>Ventaja competitiva ¿Qué valor ofrece a los clientes?</b></td>
-    <td> - Instalación no invasiva (sin técnicos ni obras civiles).<br> - Monitoreo de consumo en Soles (S/) en tiempo real<br>- Una plataforma diseñada específicamente para la realidad del consumo eléctrico en Perú. </td>
-    <td> - Variedad en productos que se adaptan a distintos aparatos y situaciones (no solo enchufes, también interruptores y relés). <br> -Precio accesible <br> -Soporte local y venta directa en Perú.</td>
-    <td> -Marca reconocida a nivel mundial por su calidad y confiabilidad<br>-Integración directa con el ecosistema Xiaomi (atractivo para personas que cuenten con dispositivos Xiaomi).</td>
-    <td> -Disponibilidad, hay tiendas fisicas a nivel nacional<br>-Facilidad de compra y confianza al ser una cadena de empresas conocida en Peru.<br>-Precios competitivos en relacion a productos similares</td>
+    <td> - text.<br> - text.<br> - text. </td>
+    <td> - text.<br> - text.<br> - text. </td>
+    <td> - text.<br> - text.<br> - text. </td>
+    <td> - text.<br> - text.<br> - text. </td>
   </tr>
   <tr>
     <td rowspan="2"><b>Perfil de Marketing</b></td>
     <td><b>Mercado objetivo</b></td>
-    <td>- Familias de clase media en zonas urbanas con viviendas de más de 10 años de antigüedad.<br>- Micro/pequeñas empresas (talleres, restaurantes) que buscan reducir costos operativos.</td>
-    <td>-Personas interesadas en automatizar su vivienda a bajo precio y sin necesidad de conocimientos tecnicos.<br>- Personas jovenes y familias que buscan comodidad (encender/apagar)<br>- Emprendedores pequeños (restaurantes, oficinas, talleres).</td>
-    <td>-Consumidores que ya tengan productos xiami, ya sea celulares, camaras, aspiradoras)<br>-Jovenes y familias que tengan alto uso de tecnologia y preferencia por marcas reconocidas<br>- Personas que valoran la calidad y seguridad certificada.</td>
-    <td>-Familias que son clientes recurrentes de Promart ya se para compras del hogar.<br>- Personas que no tienen conocimiento en tecnologia y buscan algo facil de instalar.</td>
+    <td>- text.<br>- text.</td>
+    <td>- text.<br>- text.<br>- text.</td>
+    <td>- text.<br>- text.<br>- text.</td>
+    <td>- text.<br>- text.</td>
   </tr>
   <tr>
     <td><b>Estrategias de marketing</b></td>
-    <td>- Marketing de contenidos sobre ahorro energético.<br>- Enfoque en la facilidad de autoinstalación ("Hazlo tú mismo").<br>- Presencia activa en canales digitales dirigidos a emprendedores y jefes de hogar.</td>
-    <td>-Venta directa online en su tienda web.<br>- Marketing digital por medio de redes sociales (Facebook, Instagram).<br>- Estrategia de precios accesibles al consumidor.</td>
-    <td>-Integracion de un dispositivo mas al ecosistema de Xiaomi<br>
-- Branding Fuerte, Xiaomi al ser una marca con reconocimiento global, hace transmitir confianza al cliente.</td>
-    <td>
--Presencia de tiendas Promart a nivel nacional, lo que da confianza al cliente.<br>
-- Promociones y descuentos por temporadas.<br>
-- Estrategia de Conveniencia: facil de conseguir, comprar y devolver en casos de problemas.</td>
+    <td>- text.<br>- text.<br>- text.</td>
+    <td>- text.<br>- text.<br>- text.</td>
+    <td>- text.<br>- text.</td>
+    <td>- text.<br>- text.<br>- text.</td>
   </tr>
   <tr>
     <td rowspan="3"><b>Perfil de Producto</b></td>
     <td><b>Productos y Servicios</b></td>
-    <td>- Adaptadores IoT para interruptores y enchufes, aplicación móvil en español y plataforma web para programación de horarios y gestión de eficiencia energética. </td>
-    <td>-Ofrece enchufes inteligentes, interruptores WIFI, relés, sensores, etc. También ofrece soporte técnico local, tutorías y asesoría de uso básico.</td>
-    <td>Su producto principal es el enchufe inteligente compacto, se integra con la app “Xiaomi Home” y con el ecosistema Xiaomi</td>
-    <td>-Encufhes inteligentes importados (marcas genéricas).</td>
+    <td>- text.</td>
+    <td>- text.</td>
+    <td>- text.</td>
+    <td>- text.</td>
   </tr>
   <tr>
     <td><b>Precios y Costos</b></td>
-    <td> Rango de precios accesible para la clase media (aprox. S/ 70 - S/ 120), posicionándose como una inversión de rápido retorno mediante el ahorro de luz.</td>
-    <td> Enchufes desde S/ 60 – S/ 100</td>
-    <td>Desde S/ 90 a S/ 130.</td>
-    <td>Desde S/ 60  a S/ 100</td>
+    <td>text.</td>
+    <td>text.</td>
+    <td>text.</td>
+    <td>text.</td>
   </tr>
   <tr>
     <td><b>Canales de distribución (Web y/o móvil)</b></td>
-    <td>- Plataforma web oficial.<br>- Aplicación móvil propia y posibles alianzas estratégicas con ferreterías locales.</td>
-    <td>-Web Principal (sonoffperu.com)<br>
-- Distribución en redes sociales y Marketplace peruano</td>
-    <td>
--Tiendas Online Oficiales (ShopMi.pe, Linio, MercadoLibre)<br>
--Tiendas fisicas (malls).</td>
-    <td>
--Tiendas fisicas Promart. <br>
--Tienda online Promart.pe<br>
-- App movil de Promart.</td>
+    <td>- text.</td>
+    <td>- text.<br>- text.</td>
+    <td>- text.<br>- text.</td>
+    <td>- text.<br>- text.<br>- text.</td>
   </tr>
   <tr>
     <td rowspan="5"><b>Análisis SWOT</b></td>
@@ -508,109 +498,85 @@ text
   </tr>
   <tr>
     <td><b>Fortalezas</b></td>
-    <td>- Instalación simple sin obra civil.<br>- Conocimiento profundo del mercado local (tarifas en Soles).<br> - Solución adaptada a infraestructura antigua.</td>
-    <td>- Variedad de productos. <br>
-    - Precios accesibles<br>
-- Soporte tecnico y garantia local<br>
-- Compatibilidad con ecosistemas como Google y Alexa</td>
-    <td>
-- Marca reconocida globalmente.<br>
-- Ecosistema bien consolidado<br>
-- Fuerte presencia en retail y e-commerce peruanos.</td>
-    <td>
-- Muchas tiendas fisicas en Peru.<br>
-- Disponibilidad inmediata y confianza en la compra.</td>
+    <td>- text.<br>- text.<br>- text.</td>
+    <td>- text.<br>- text.<br>- text.<br>- text</td>
+    <td>- text.<br>- text.<br>- text.</td>
+    <td>- text.<br>- text.</td>
   </tr>
   <tr>
     <td><b>Debilidades</b></td>
-    <td>- Marca nueva con presupuesto limitado para publicidad masiva frente a gigantes globales.</td>
-    <td>- Depende de importacion (no produce localmente)</td>
-    <td>
-- Precios más altos que competidores locales.<br>
-- Dependencia del ecosistema Xiaomi.</td>
-    <td>
-- Productos genericos con poca diferenciacion.<br>
-- Sin ecosistema propio.<br>
-- Dependencia de proveedores externos.</td>
+    <td>- text.</td>
+    <td>- text.</td>
+    <td>- text.<br>- text.</td>
+    <td>- text.<br>- text.<br>- text.</td>
   </tr>
   <tr>
     <td><b>Oportunidades</b></td>
-    <td>- Incremento constante de las tarifas eléctricas en el mercado peruano.<br> - Gran volumen de viviendas urbanas que necesitan modernización.</td>
-    <td>
-- Mercado local con poca competencia especializada<br>
-- Posibilidad de diferenciarse ofreciendo instalación y soporte</td>
-    <td>
-- Posibilidad de cross-selling para maximizar ganancias.<br>
-- Tendencia global hacia la domótica segura y certificada.</td>
-  <td>
-- Captar al consumidor no especializado que busca soluciones rápidas.<br>
-- Posibilidad de aliarse con marcas reconocidas para diferenciar su oferta.</td>
+    <td>- text.<br>- text.</td>
+    <td>- text.<br>- text.</td>
+    <td>- text.<br>- text.</td>
+    <td>- text.<br>- text.</td>
   </tr>
   <tr>
     <td><b>Amenazas</b></td>
-    <td>- Ingreso de nuevos dispositivos genéricos de bajo costo.<br> - Inestabilidad en los precios de componentes electrónicos y módulos Wi-Fi importados.</td>
-    <td>
-- Competencia de marcas globales con mayor presupuesto de marketing<br>
-- Cambios en regulaciones eléctricas o certificaciones necesarias.</td>
-    <td>
-- Productos genéricos más baratos que cumplen funciones similares<br>
-- Cambios en restricciones de importación o alzas en costos logísticos.</td>
-    <td>
-- Competidores Online que ofrecen más variedad.<br>
-- Clientes que buscan marcas con ecosistemas establecidos.</td>
+    <td>- text.<br>- text.</td>
+    <td>- text.<br>- text.</td>
+    <td>- text.<br>- text.</td>
+    <td>- text.<br>- text.</td>
   </tr>
 </table>
 
 ### **2.1.2 Estrategias y tácticas frente a competidores**
-A partir del análisis competitivo realizado, se han definido las siguientes estrategias y tácticas para posicionar a ElectroCorp en el mercado peruano y afrontar las fortalezas de la competencia.
+A partir del análisis competitivo realizado, se han definido las siguientes estrategias y tácticas para posicionar a LowCortisol en el mercado peruano y afrontar las fortalezas de la competencia.
 
-##### **1. Aprovechar la Fortaleza: Instalación No Invasiva y Enfoque en Hogares Peruanos**
+##### **1. title**
 **Estrategia**
 
-Posicionarse como la única alternativa de automatización que no requiere modificaciones en el cableado eléctrico ni contratar técnicos especializados, diferenciándose de competidores como Sonoff que exigen instalaciones complejas.
+text.
 
 **Tácticas**
 
-- **Guías de Autoinstalación:** Producción de tutoriales en video enfocados en la instalación del sistema sobre interruptores y enchufes estándar de viviendas peruanas.
-- **Kits para Departamentos Alquilados:** Desarrollo de paquetes de dispositivos diseñados específicamente para usuarios que no tienen permiso para romper paredes o techos.
-- **Demostraciones en Tiendas Locales:** Realización de exhibiciones en ferreterías para mostrar que el hardware se instala en minutos sobre la red eléctrica existente.
+- **title:** text.
+- **title:** text.
+- **title:** text.
 
 **Valor Añadido**
 
-- Eliminación de costos adicionales por contratación de electricistas o técnicos externos.
-- Facilidad para retirar los dispositivos y llevarlos a una nueva vivienda sin dejar daños en la infraestructura.
+- text.
+- text.
 
-##### **2.  Aprovechar la Oportunidad: Incremento de Tarifas Eléctricas y Necesidad de Ahorro**
+##### **2.  title**
 **Estrategia**
 
-Centrar la propuesta de valor en el control del presupuesto familiar mediante el monitoreo del consumo de energía en tiempo real y en moneda local (Soles).
+text.
 
 **Tácticas**
 
-- **Panel de Control en Soles:** Implementación de una interfaz en la aplicación que traduzca el consumo de Watts a Soles basándose en el pliego tarifario local.
-- **Sistema de Alertas de Presupuesto:** Configuración de notificaciones móviles que avisen al usuario cuando el consumo se acerque a un límite de gasto mensual establecido.
-- **Reportes de Consumo Real:** Generación de resúmenes semanales que identifiquen qué electrodomésticos generan el mayor gasto energético en el hogar.
+- **title:** text.
+- **title:** text.
+- **title:** text.
 
 **Valor Añadido**
 
-- Gestión eficiente de la economía del hogar mediante información financiera clara y directa.
-- Capacidad de tomar acciones preventivas para reducir el monto del recibo de luz antes de que termine el mes.
+- text.
+- text.
 
-##### **3.  Afrontar la Amenaza: Presencia de Marcas Globales y Soluciones Genéricas**
+##### **3.  title**
 **Estrategia**
 
-Mitigar la desconfianza hacia los productos importados mediante la oferta de soporte técnico local y una plataforma adaptada a la realidad del consumo peruano.
+text.
 
 **Tácticas**
 
-- **Soporte Técnico por WhatsApp:** Establecimiento de un canal de atención directa en español para resolver dudas sobre la configuración inicial de la plataforma.
-- **Garantía de Reemplazo Inmediato:** Implementación de un servicio de cambio de hardware rápido en Lima ante cualquier falla de fábrica, evitando esperas de importación.
-- **Actualizaciones Basadas en el Usuario:** Desarrollo de nuevas funcionalidades en la plataforma web y móvil a partir de las sugerencias de los clientes locales.
+- **title:** text.
+- **title:** text.
+- **title:** text.
 
 **Valor Añadido**
 
-- Respaldo y seguridad de una marca con presencia física y técnica en el país.
-- Reducción de la incertidumbre al configurar dispositivos inteligentes gracias al acompañamiento personalizado.
+- text.
+- text.
+
 ## 2.2 Entrevistas
 ### 2.2.1. Diseño de entrevistas
 
@@ -621,32 +587,32 @@ Mitigar la desconfianza hacia los productos importados mediante la oferta de sop
 - ¿En qué ciudad y distrito reside?
 - ¿A qué se dedica y cuál es su formación académica?
 - ¿Qué dispositivos electrónicos utiliza con mayor frecuencia (smartphone, laptop, otros)?  
-- ¿Qué aplicaciones o redes sociales utiliza para informarse sobre tecnología o mejoras para el hogar/negocio
+- ¿Qué aplicaciones o redes sociales utiliza para informarse sobre tecnología o mejoras para el hogar/negocio?
 - ¿Qué marcas de tecnología o electrodomésticos prefiere por su confiabilidad?
 - ¿Se considera una persona que se adapta rápido a la tecnología o prefiere lo tradicional?
 ##### Preguntas Específicas
 
-###### Segmento 1: Hogares urbanos con viviendas antiguas (mayor a 10 años de construcción)
+###### Segmento 1: text
 
-1. ¿Cómo es el estado de las instalaciones eléctricas en su hogar actualmente?
-2. ¿Qué tan seguido revisa su recibo de luz y qué siente al ver el monto final?
-3. ¿Ha intentado implementar soluciones de "hogar inteligente"?
-4. ¿Cuál es su mayor temor al pensar en contratar a un técnico para remodelar su casa?
-5. ¿Qué electrodoméstico le gustaría poder apagar desde su celular si olvida hacerlo al salir?
-6. ¿Cuánto tiempo estaría dispuesto a invertir en instalar una solución por su cuenta si no requiere herramientas?
-7. ¿Le interesaría ver su consumo de energía traducido a Soles en tiempo real?
-8. ¿Qué características buscaría en una aplicación para que sea fácil de usar para toda su familia?
+1. ¿?
+2. ¿?
+3. ¿?
+4. ¿?
+5. ¿?
+6. ¿?
+7. ¿?
+8. ¿?
 
-###### Segmento 2: Pequeños negocios y talleres en zonas urbanas
+###### Segmento 2: text
 
-1. ¿Qué equipos eléctricos son críticos para la operación diaria de su negocio o taller?
-2. ¿Cómo asegura que todos los equipos queden apagados al cerrar el local?
-3. ¿Qué impacto económico tiene el recibo de luz en la rentabilidad de su negocio o taller (bajo, moderado, crítico)?
-4. ¿Ha tenido problemas por dejar equipos encendidos accidentalmente después del horario de cierre?
-5. ¿Qué canales digitales utiliza para gestionar o promover su negocio actualmente?
-6. ¿Qué funciones le darían más tranquilidad: programar horarios de encendido o recibir alertas de sobrecosto?
-7. ¿Estaría dispuesto a invertir en una solución tecnológica que no requiera detener sus actividades para su instalación?
-8. ¿Cuánto valoraría contar con un reporte que identifique los puntos críticos de desperdicio de energía en su local?
+1. ¿?
+2. ¿?
+3. ¿?
+4. ¿?
+5. ¿?
+6. ¿?
+7. ¿?
+8. ¿?
 
 
 ### 2.2.2. Registro de entrevistas 
