@@ -398,13 +398,13 @@ text
 - text.
 </td>  
 <td>  
-<h2>Pregunta 1</h2>  
+<h2>What’s the most important thing we need to learn first?</h2>  
 - text. <br>
 - text. <br>
 - text.
 </td>  
 <td>  
-<h2>Pregunta 2</h2>  
+<h2>What’s the least amount of work we need to do to learn the next most important thing?</h2>  
 - text.  <br>
 - text.  <br>
 - text.
