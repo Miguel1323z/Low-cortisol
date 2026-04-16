@@ -245,8 +245,9 @@ Asimismo, la solución permitirá optimizar el consumo de recursos y fomentar un
 Para ello, nuestro grupo demostrará conocimientos en desarrollo web, bases de datos, integración de sensores y gestión de servicios en la nube.
 
 ## Misión
-
----
+Nuestra visión es convertirnos en la empresa líder en soluciones tecnológicas de monitoreo y prevención de fugas de agua y gas en el Perú. 
+Buscamos brindar mayor seguridad, eficiencia y tranquilidad a las personas y negocios mediante herramientas innovadoras y accesibles. 
+Creemos que la tecnología puede prevenir incidentes, reducir desperdicios y mejorar la calidad de vida de la población.
 
 ## Visión
 
