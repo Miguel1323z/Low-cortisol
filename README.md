@@ -584,19 +584,8 @@ Low Cortisol adoptará una estrategia de innovación continua, incorporando mejo
 ## 2.2 Entrevistas
 ### 2.2.1. Diseño de entrevistas
 
-##### Preguntas Generales
-
-- ¿Cuál es su nombre?
-- ¿Cuántos años tiene usted?
-- ¿En qué ciudad y distrito reside?
-- ¿A qué se dedica y cuál es su formación académica?
-- ¿?  
-- ¿?
-- ¿?
-- ¿?
-##### Preguntas Específicas
-
-#### Segmento Hogares: 
+#### Segmento: Usuarios residenciales con interés con tecnología y seguridad del hogar
+ 
 1. ¿Ha tenido alguna fuga de agua o gas en su vivienda?
 2. ¿Con qué frecuencia ocurren estos problemas?
 3. ¿Cómo suele detectar una fuga o anomalía?
@@ -610,121 +599,98 @@ Low Cortisol adoptará una estrategia de innovación continua, incorporando mejo
 11. ¿Qué funcionalidades le gustaría que tenga este sistema?
 12. ¿Estaría dispuesto a pagar por un servicio de monitoreo?
 
-#### Segmento Municipalidades:
+#### Segmento: Profesionales de Infraestructura, Mantenimiento y Gestión Operativa
+
 1. ¿Cómo gestionan actualmente el monitoreo de redes de agua o gas?
-2. ¿Existen pérdidas frecuentes en la infraestructura?
-3. ¿Cuáles son las principales causas de estas pérdidas?
+2. ¿Existen pérdidas frecuentes en la infraestructura? ¿Cuáles son las principales causas?
+3. ¿Han tenido problemas relacionados con fugas de agua o gas? ¿Con qué frecuencia ocurren estos incidentes?
 4. ¿Cómo detectan actualmente las fugas o fallas?
 5. ¿Cuánto tiempo tarda el proceso de detección y reparación?
-6. ¿Qué impacto generan estas fallas en la comunidad?
-7. ¿Utilizan algún tipo de tecnología para monitoreo?
-8. ¿Qué limitaciones tienen los sistemas actuales?
-9. ¿Qué tan importante es la optimización del consumo de recursos?
-10. ¿Considerarían implementar soluciones basadas en IoT?
-11. ¿Qué características consideran clave en una solución tecnológica?
-12. ¿Qué dificultades ven en la implementación de este tipo de sistemas?
+6. ¿Cuentan con un sistema de monitoreo continuo? ¿Qué tecnologías utilizan?
+7. ¿Qué limitaciones presentan los sistemas actuales?
+8. ¿Qué impacto generan estas fallas en la comunidad o en la experiencia del cliente?
+9. ¿Qué medidas toman para prevenir fallas? ¿Cómo gestionan el mantenimiento de sus instalaciones?
+10. ¿Qué tan importante es evitar interrupciones en el servicio?
+11. ¿Qué tan importante es la optimización del consumo de recursos?
+12. ¿Les interesaría recibir alertas en tiempo real?
+13. ¿Considerarían implementar soluciones basadas en IoT?
+14. ¿Qué características y funcionalidades consideran clave en una solución de monitoreo?
+15. ¿Qué dificultades ven en la implementación de este tipo de sistemas?
+16. ¿Estarían dispuestos a invertir en este tipo de solución? ¿Qué beneficios esperan obtener?
 
-#### Segmento Hoteles:
-1. ¿Han tenido problemas relacionados con fugas de agua o gas?
-2. ¿Con qué frecuencia ocurren estos incidentes?
-3. ¿Cómo detectan actualmente estos problemas?
-4. ¿Qué impacto tienen estos incidentes en la experiencia del cliente?
-5. ¿Qué medidas toman para prevenir fallas?
-6. ¿Cuentan con un sistema de monitoreo continuo?
-7. ¿Cómo gestionan el mantenimiento de sus instalaciones?
-8. ¿Qué tan importante es evitar interrupciones en el servicio?
-9. ¿Les interesaría recibir alertas en tiempo real?
-10. ¿Qué funcionalidades consideran necesarias en un sistema de monitoreo?
-11. ¿Estarían dispuestos a invertir en este tipo de solución?
-12. ¿Qué beneficios esperan obtener con un sistema así?
-
-#### Segmento Restaurantes:
-1. ¿Qué tan importante es el uso de agua y gas en sus operaciones diarias?
-2. ¿Han tenido fugas o problemas en sus instalaciones?
-3. ¿Con qué frecuencia ocurren estos incidentes?
-4. ¿Cómo detectan actualmente una fuga o falla?
-5. ¿Qué consecuencias han tenido estos problemas en su negocio?
-6. ¿Cómo solucionan estos incidentes?
-7. ¿Cuentan con mantenimiento preventivo?
-8. ¿Qué tan importante es la continuidad del servicio en su negocio?
-9. ¿Les gustaría recibir alertas en tiempo real?
-10. ¿Qué funcionalidades consideran más importantes en un sistema de monitoreo?
-11. ¿Estarían dispuesto a pagar por este servicio?
-12. ¿Qué beneficios esperan obtener al implementar esta solución?
 
 ### 2.2.2 Registro Entrevistas
 
-#### Segmento Hogares
+#### Segmento: Hogares
 
-###### Entrevistado 1
+##### Entrevista 1 - Segmento: Hogares
 
-Datos del Entrevistado:
+**Datos del Entrevistado:**
 - Edad: 19
 - Nombre: Yazid Dumet Isaac Pinto
 - Ocupación: Estudiante de Ingenieria  Mecatronica
 - Distrito: Molina
 
-Evidencia:
-- URL: [Entrevista_Yazid_Segmento_Hogar.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202411378_upc_edu_pe/IQD7BHUGgfX-R6Oz1emzH8bFAQ5R1r1xMT7iyeOb6NyvI0c?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=TAg39Z)
+**Evidencia:**
+- URL: [Entrevista - 1](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202411378_upc_edu_pe/IQD7BHUGgfX-R6Oz1emzH8bFAQ5R1r1xMT7iyeOb6NyvI0c?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=TAg39Z)
 - Duración video: 4:24
 - Screenshot: 
   ![Entrevistado-1](https://upcedupe-my.sharepoint.com/:i:/g/personal/u202411378_upc_edu_pe/IQCQGEfRWVH6TLcr3I0c7lP5Aakp02sv6gcUb_jZen03Ib8?e=K3w4YT)
 
 
-<u>Resumen de la entrevista:</u>
+**<u>Resumen de la entrevista:</u>**
 Yazid es un estudiante de Ingeniería Mecatrónica que habita en una vivienda con más de 40 años de antigüedad, factor que vuelve las fugas de agua un problema crónico debido al desgaste natural de la red. Describe que la detección actual es tardía y depende de señales visuales como hongos, caída de pintura, baja presión en los grifos o el impacto económico en los recibos mensuales. Para él, el impacto más fuerte es el desperdicio de recursos y el riesgo de seguridad que implican las fugas de gas. Su perfil académico lo hace especialmente receptivo a soluciones tecnológicas avanzadas; espera una herramienta que no solo envíe alertas al móvil e identifique la zona exacta del fallo, sino que también ofrezca la capacidad de cortar el suministro de forma remota (válvulas inteligentes). Yazid valora la eficiencia y la innovación, considerando que una solución así mejoraría drásticamente la seguridad del hogar y reduciría el gasto innecesario de agua.
 
 
-###### Entrevistado 2
+##### Entrevista 2 - Segmento: Hogares
 
-Datos del Entrevistado:
+**Datos del Entrevistado:**
 - Edad: 19
 - Nombre: Jesus Huaman
 - Ocupación: Estudiante de Ing de Software
 - Distrito: Ate
 
-Evidencia:
+**Evidencia:**
 - URL: [Entrevista - 2](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202411378_upc_edu_pe/IQDbk1DYJMu7TqQ7YVonCc7kAfORlvBeEqx0ePXhcOI9QBs?e=UhgedF&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 - Duración video: 8:41
 - Screenshot: ![Entrevistado-2](https://upcedupe-my.sharepoint.com/:i:/g/personal/u202411378_upc_edu_pe/IQBFJzGW3bK0SoA2oyThe0AoAfVqaqoO0QSCJ9a8YOHuuWA?e=RVhzTc)
 
-<u>Resumen de la entrevista:</u>
+**<u>Resumen de la entrevista:</u>** 
 Jesús es un estudiante con conocimientos técnicos previos que vive en un entorno familiar donde se presentan fugas tanto de agua como de gas, estas últimas generalmente por el uso de mangueras de baja calidad. Explica que mientras la detección de gas es casi inmediata gracias al olfato (menos de 5 minutos), las fugas de agua son más engañosas y pueden tardar hasta una semana en manifestarse mediante salitre o manchas en las paredes. Dado su perfil técnico, él mismo asume el rol de mantenimiento en el hogar para evitar gastos externos. Sin embargo, reconoce las limitaciones de la inspección manual y se muestra muy a favor de implementar sistemas basados en sensores (IoT) que alerten sobre roturas internas no visibles. Propone que este tipo de tecnología debería comercializarse bajo un modelo de suscripción atractivo y destaca que su principal valor sería la tranquilidad y la respuesta inmediata ante emergencias que podrían escalar a desastres.
 
-###### Entrevistado 3
+##### Entrevista 3 - Segmento: Hogares
 
-Datos del Entrevistado:
+**Datos del Entrevistado:**
 - Edad: 20
 - Nombre: Frank Serrano
 - Ocupación: Estudiante Ing Software
 - Distrito: Santiago de Surco
 
-Evidencia:
+**Evidencia:**
 - URL: [Entrevista - 3](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202411378_upc_edu_pe/IQCzx8x7QA6FSruSB6l-3xysAbDrym3Es1cHPQIuMX99_28?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=NNWf3P)
 - Duración video: 6:56
 - Screenshot: ![Entrevistado - 3](https://upcedupe-my.sharepoint.com/:i:/g/personal/u202411378_upc_edu_pe/IQAP2_9c0JH3R7nHQiJn_N7GAVdz2Hyrkc2ITo6BuXwAgs4?e=tkbRA8)
 
-<u>Resumen de la entrevista:</u> 
+**<u>Resumen de la entrevista:</u>**
 El entrevistado es un joven de 20 años, estudiante de Ingeniería de Software, que reside en un hogar donde las fugas de agua ocurren con una frecuencia de cada tres o cuatro meses. Durante la charla, menciona que suele notar el problema de manera reactiva, muchas veces ignorando las primeras señales hasta que el daño es evidente a través de charcos o humedad excesiva. Su gestión actual es mixta: intenta realizar reparaciones menores por cuenta propia, pero debe recurrir a técnicos especializados cuando el problema afecta la estructura interna, lo que ha derivado en costos elevados como el cambio de tuberías o pisos dañados. En cuanto a la tecnología, Frank se muestra muy interesado en una solución de monitoreo en tiempo real, siempre que el costo sea accesible y la interfaz permita personalizar o modelar el plano de su hogar para una mejor ubicación de las averías. Su actitud es pragmática, priorizando la prevención económica y la facilidad de uso de una aplicación móvil.
 
-#### Segmento Municipales
 
-###### Entrevistado 1
+##### Entrevista 1 – Segmento: Profesionales de Infraestructura
 
-Datos del Entrevistado:
+**Datos del Entrevistado:**
 - Edad: 22
 - Nombre: Leonardo Daniel Sotelo de la Cruz
 - Ocupación: Practicante de Ingeniería Civil del área de Infraestructura en la Municipalidad de La Molina
 - Distrito: La Molina
 
-Evidencia:
-- URL: [Entrevista_Leonardo_Segmento_Municipalidad.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202413930_upc_edu_pe/IQAACV_KLKrVQ4mW-fkDJBhjAdEzO8O66oc0hGDoY-FjbTI?e=cEBinc)
+**Evidencia:**
+- URL: [Entrevista_Leonardo_Daniel](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202413930_upc_edu_pe/IQAACV_KLKrVQ4mW-fkDJBhjAdEzO8O66oc0hGDoY-FjbTI?e=cEBinc)
 - Duración video: 7:44
 - Screenshot: 
   ![Entrevistado-1](https://upcedupe-my.sharepoint.com/:i:/g/personal/u202411378_upc_edu_pe/IQCQGEfRWVH6TLcr3I0c7lP5Aakp02sv6gcUb_jZen03Ib8?e=K3w4YT)
 
 
-<u>Resumen de la entrevista:</u>
+**<u>Resumen de la entrevista:</u>**
 Leonardo es un practicante de Ingeniería Civil que trabaja en el área de infraestructura de una municipalidad, donde participa en la supervisión de redes de agua y gestión de incidencias. Desde su experiencia, el monitoreo actual es principalmente reactivo, ya que no se cuenta con sistemas en tiempo real, dependiendo en gran medida de inspecciones manuales y reportes de los ciudadanos.
 
 Señala que las fugas de agua son frecuentes, especialmente en zonas con tuberías antiguas, y muchas veces no son visibles de inmediato, lo que genera pérdidas acumulativas. La detección suele realizarse de forma visual o cuando los vecinos reportan problemas, lo que retrasa la intervención. Además, los tiempos de respuesta pueden variar desde horas hasta varios días debido a la coordinación con entidades externas.
@@ -733,22 +699,22 @@ Reconoce que el uso de tecnología es limitado y que la falta de sensores o sist
 
 Finalmente, menciona que los principales retos para implementar estas soluciones son el presupuesto, la capacitación del personal y la integración con sistemas existentes. A pesar de ello, considera que su principal valor sería mejorar la gestión de recursos, reducir pérdidas y brindar un servicio más eficiente a la comunidad.
 
-###### Entrevistado 2
+###### Entrevista 2 – Segmento: Profesionales de Infraestructura
 
-Datos del Entrevistado:
+**Datos del Entrevistado:**
 - Edad: 22
 - Nombre: Pool Enrique Guevara García
 - Ocupación: Practicante de Ingeniería Civil del área de Infraestructura y Servicios Públicos en la Municipalidad de Ate
 - Distrito: ATE
 
-Evidencia:
-- URL: [Entrevista_Pool_Segmento_Municipalidad.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202413930_upc_edu_pe/IQDfxdo8pQ9SQJk2KH4ElHBpASUK09i9Wp0YcqIypn83PuY?e=GPSgeU)
+**Evidencia:**
+- URL: [Entrevista_Pool_Enrique](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202413930_upc_edu_pe/IQDfxdo8pQ9SQJk2KH4ElHBpASUK09i9Wp0YcqIypn83PuY?e=GPSgeU)
 - Duración video: 7:12
 - Screenshot: 
   ![Entrevistado-1](https://upcedupe-my.sharepoint.com/:i:/g/personal/u202411378_upc_edu_pe/IQCQGEfRWVH6TLcr3I0c7lP5Aakp02sv6gcUb_jZen03Ib8?e=K3w4YT)
 
 
-<u>Resumen de la entrevista:</u>
+**<u>Resumen de la entrevista:</u>**
 Pool, practicante de Ingeniería Civil en la Municipalidad de Ate, participa en actividades relacionadas con la supervisión de redes de agua y la gestión de incidencias en servicios públicos. Desde su experiencia, comenta que el control de estas redes se realiza principalmente de forma reactiva, apoyándose en inspecciones y en los reportes de los ciudadanos, debido a la ausencia de sistemas que permitan un monitoreo continuo en tiempo real.
 
 Indica que las fugas son un problema recurrente, sobre todo en sectores con infraestructura antigua o intervenida sin planificación adecuada. Muchas de estas fallas no se detectan rápidamente, lo que incrementa las pérdidas de agua y afecta el rendimiento del sistema. La identificación de estas fugas suele basarse en observaciones directas, como humedad o baja presión, lo que retrasa la respuesta ante el problema. Además, el tiempo de solución varía según la complejidad, pudiendo extenderse por varios días.
@@ -757,90 +723,68 @@ También resalta que el uso de herramientas tecnológicas es limitado, lo que di
 
 Finalmente, menciona que existen barreras como el presupuesto, la capacitación del personal y la adaptación a infraestructuras antiguas. Aun así, considera que implementar estas tecnologías contribuiría a optimizar recursos, disminuir pérdidas y mejorar la calidad del servicio para la población.
 
-###### Entrevistado 3
+######  Entrevista 3 – Segmento: Profesionales de Infraestructura
 
-Datos del Entrevistado:
-- Edad: 
-- Nombre: 
-- Ocupación: 
-- Distrito: 
+**Datos del Entrevistado:**
+- Edad: 22
+- Nombre: Eduard Rojas
+- Ocupación: Practicante de Ingeniería Civil del área de mantenimiento del JW Marriott Hotel
+- Distrito: San Isidro
 
-Evidencia:
-- URL: [Entrevista_Nombre_Segmento_Municipalidad.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202413930_upc_edu_pe/IQAACV_KLKrVQ4mW-fkDJBhjAdEzO8O66oc0hGDoY-FjbTI?e=cEBinc)
-- Duración video: 7:12
+**Evidencia:**
+- URL del video: [Entrevista-Eduardo-Rojas](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202413930_upc_edu_pe/IQDh1SBPb7DSQ73erb_Z8gX_AW--6ocemaj16SMFlCVYJkg?e=BovAyo)
+- Duración: 05:06
+- Screenshot:
+
+**<u>Resumen de la entrevista:</u>**
+El entrevistado es un joven trabajador del área de mantenimiento en un hotel de alta categoría, encargado de supervisar el estado de las instalaciones, especialmente redes de agua y gas. Durante la entrevista, menciona que las fugas de agua son los problemas más frecuentes, principalmente en tuberías internas de habitaciones, mientras que las fugas de gas son menos comunes pero más críticas debido al riesgo que representan.
+En cuanto a la gestión actual, señala que el monitoreo se realiza de manera manual y reactiva, dependiendo en gran parte de reportes del personal como housekeeping, recepción o incluso de los propios huéspedes. Indica que los incidentes ocurren aproximadamente una o dos veces al mes, incrementándose en temporadas de alta ocupación.
+El impacto de estas fallas en la experiencia del cliente es significativo, ya que pueden generar incomodidades, cambios de habitación e incluso afectar la percepción de calidad del servicio. Por ello, el hotel cuenta con un plan de mantenimiento preventivo basado en revisiones periódicas y capacitación del personal para detectar señales tempranas.
+Respecto a la tecnología, menciona que actualmente no cuentan con sistemas automatizados ni monitoreo en tiempo real, lo que limita la capacidad de respuesta rápida. Sin embargo, muestra una actitud abierta hacia la implementación de soluciones tecnológicas como sistemas basados en IoT, destacando que serían útiles para detectar fugas de manera temprana y mejorar la eficiencia del trabajo.
+En términos de personalidad, el entrevistado se muestra práctico, responsable y orientado a la solución de problemas, con interés en mejorar los procesos del área. Está familiarizado con el uso de tecnología básica y dispositivos móviles, los cuales considera clave para recibir alertas en tiempo real.
+Finalmente, señala que los principales beneficios esperados de una solución tecnológica incluyen una respuesta más rápida, reducción de riesgos, disminución de costos de reparación y mejora en la satisfacción del cliente.
+
+###### Entrevista 4 – Segmento: Profesionales de Infraestructura
+
+**Datos del Entrevistado:**
+- Nombre: Fabián Raimundo
+- Edad: 23
+- Distrito: Cercado de Lima
+- Ocupación: Practicante del área de Gestión y Servicios – Hotel Sheraton
+
+**Evidencia:**
+- URL: [Entrevista_Fabián_Raimundo](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202413930_upc_edu_pe/IQDawspRWjtiR5y7UR6qjti4AcwNYWIz-ajJLLVrggxK-cQ?e=8IlNqo)
+- Duración video: 07:26
 - Screenshot: 
   ![Entrevistado-1](https://upcedupe-my.sharepoint.com/:i:/g/personal/u202411378_upc_edu_pe/IQCQGEfRWVH6TLcr3I0c7lP5Aakp02sv6gcUb_jZen03Ib8?e=K3w4YT)
 
 
-<u>Resumen de la entrevista:</u>
-text
+**<u>Resumen de la entrevista:</u>**
+El entrevistado es un practicante del área de gestión y servicios en un hotel, donde participa en la supervisión y apoyo a las operaciones relacionadas con el mantenimiento y la experiencia del cliente. Durante la entrevista, menciona que los problemas relacionados con fugas de agua y gas sí ocurren, aunque no con alta frecuencia. Las fugas de agua son más comunes debido al desgaste natural de las instalaciones, mientras que las fugas de gas son menos frecuentes, pero consideradas críticas, especialmente en áreas como el restaurante, donde el riesgo es mayor.
+Respecto a la frecuencia, indica que estos incidentes se presentan de manera ocasional, principalmente asociados al deterioro de las tuberías. La detección de estos problemas se realiza de manera manual, a través de la observación del personal de mantenimiento y limpieza, quienes identifican señales como humedad, olores o ruidos extraños. En algunos casos, los huéspedes también reportan inconvenientes al finalizar su estadía.
+El impacto en la experiencia del cliente es relevante, ya que estas fallas pueden generar incomodidad, interrupciones en el descanso e incluso desconfianza en el servicio, lo que podría llevar a los clientes a optar por otros hoteles. Por ello, el establecimiento aplica medidas de mantenimiento preventivo, mediante revisiones periódicas de tuberías, conexiones y equipos. Sin embargo, el entrevistado reconoce que estas acciones no siempre son suficientes.
+En cuanto a la tecnología, menciona que actualmente cuentan con un sistema de monitoreo, pero este no es completamente eficiente, por lo que aún dependen en gran medida de inspecciones manuales y supervisión constante. Existe una intención de avanzar hacia un sistema más automatizado, lo que evidencia una transición tecnológica en proceso.
+La gestión del mantenimiento se realiza mediante cronogramas establecidos y un equipo encargado de atender incidencias, aunque en muchos casos el enfoque sigue siendo reactivo. El entrevistado destaca que evitar interrupciones en el servicio es fundamental, ya que la satisfacción del cliente y la reputación del hotel son prioridades clave.
+En relación con soluciones tecnológicas, muestra una actitud positiva hacia la implementación de sistemas con alertas en tiempo real, considerando que permitirían actuar de forma inmediata ante cualquier tipo de falla. Entre las funcionalidades clave, menciona la necesidad de alertas en tiempo real, historial de incidencias, reportes detallados y facilidad de uso.
+Desde su perspectiva, el hotel estaría dispuesto a invertir en este tipo de soluciones, aunque reconoce que estas decisiones dependen del área administrativa. Finalmente, señala que los principales beneficios esperados incluyen la detección temprana de fallas, reducción en los tiempos de respuesta, optimización del trabajo, mejora en la experiencia del cliente y disminución de costos a largo plazo.
+En cuanto a características personales, el entrevistado muestra una actitud analítica y orientada a la mejora continua, con apertura al uso de nuevas tecnologías. Utiliza canales de comunicación internos del hotel y dispositivos digitales básicos, lo que facilita la adopción de soluciones tecnológicas como sistemas de monitoreo automatizados.
 
-#### Segmento Hoteles
+###### Entrevista 5 – Segmento: Profesionales de Infraestructura
 
-###### Entrevistado 1
-
-Datos del Entrevistado:
-- Edad: 22
-- Nombre: Edward Rojas Rojas
-- Ocupación: Practicante de Ingeniería Civil del área de mantenimiento del JW Marriott Hotel
-- Distrito: San Isidro
-
-Evidencia:
-- URL: [Entrevista_Edward_Segmento_Hoteles.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202413930_upc_edu_pe/IQAACV_KLKrVQ4mW-fkDJBhjAdEzO8O66oc0hGDoY-FjbTI?e=cEBinc)
-- Duración video: 05:06
-- Screenshot: 
-  ![Entrevistado-1](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202413930_upc_edu_pe/IQDh1SBPb7DSQ73erb_Z8gX_AW--6ocemaj16SMFlCVYJkg?e=BovAyo)
-
-
-<u>Resumen de la entrevista:</u>
-Edward es un trabajador del área de mantenimiento en un hotel de alta categoría, donde se encarga de supervisar el funcionamiento de las instalaciones, especialmente las redes de agua y gas. A partir de su experiencia, comenta que las fugas de agua son los incidentes más habituales, principalmente en tuberías internas de las habitaciones, mientras que las fugas de gas ocurren con menor frecuencia, pero representan un mayor riesgo.
-
-Señala que actualmente el control de estos problemas se realiza de manera manual y reactiva, dependiendo en gran medida de reportes del personal del hotel o de los propios huéspedes. Además, indica que estos incidentes pueden presentarse una o dos veces al mes, siendo más frecuentes en temporadas de mayor ocupación.
-
-Destaca que el impacto en la experiencia del cliente es considerable, ya que puede generar molestias, cambios de habitación y afectar la percepción del servicio. Por ello, el hotel implementa acciones de mantenimiento preventivo mediante revisiones periódicas y capacitación del personal para identificar posibles fallas.
-
-En cuanto al uso de tecnología, menciona que no cuentan con sistemas automatizados ni monitoreo en tiempo real, lo que limita la capacidad de respuesta inmediata. Sin embargo, muestra interés en soluciones basadas en IoT, considerando que permitirían detectar fugas con anticipación y optimizar el trabajo del área.
-
-Finalmente, resalta que una solución tecnológica aportaría beneficios como mayor rapidez de respuesta, reducción de riesgos, disminución de costos y una mejor experiencia para los clientes.
-
-###### Entrevistado 2
-
-Datos del Entrevistado:
-- Edad: 23
-- Nombre: Fabián Raimundo
-- Ocupación: Practicante de Ingeniería Civil del área de Gestión y Servicios del Hotel Sheraton
-- Distrito: Cercado de Lima
-
-Evidencia:
-- URL: [Entrevista_Fabian_Segmento_Hoteles.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202413930_upc_edu_pe/IQDawspRWjtiR5y7UR6qjti4AcwNYWIz-ajJLLVrggxK-cQ?e=8IlNqo)
-- Duración video: 7:26
-- Screenshot: 
-  ![Entrevistado-1](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202413930_upc_edu_pe/IQDh1SBPb7DSQ73erb_Z8gX_AW--6ocemaj16SMFlCVYJkg?e=BovAyo)
-
-
-<u>Resumen de la entrevista:</u>
-Fabián, practicante en el área de gestión y servicios de un hotel, indica que las fugas de agua y gas ocurren ocasionalmente, siendo más comunes las de agua por el desgaste de las instalaciones. La detección se realiza principalmente de forma manual mediante observación del personal o reportes de huéspedes, lo que hace que la gestión sea reactiva.
-
-Señala que estos problemas afectan la experiencia del cliente y la reputación del hotel, por lo que se aplican medidas de mantenimiento preventivo, aunque no siempre son suficientes. Actualmente cuentan con un sistema de monitoreo limitado, por lo que aún dependen de supervisión constante.
-
-Finalmente, muestra interés en soluciones basadas en IoT, destacando que permitirían detectar fallas a tiempo, mejorar la respuesta y optimizar la gestión del mantenimiento.
-
-###### Entrevistado 3
-
-Datos del Entrevistado:
+**Datos del Entrevistado:**
 - Edad: 21
 - Nombre: Álvaro Jordán Villa
 - Ocupación: Practicante de Ingeniería Civil - Área de mantenimiento en el Hotel El Pardo Lima
 - Distrito: Santiago de Surco
 
-Evidencia:
-- URL: [Entrevista_Alvaro_Segmento_Hoteles.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202413930_upc_edu_pe/IQDCfKgvsJeSQ5iSLTGtwZuBAdD3tSG00wgIiM6258CkGV0?e=g4vMv6)
+**Evidencia:**
+- URL: [Entrevista_Álvaro_Jordán_Villa](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202413930_upc_edu_pe/IQDCfKgvsJeSQ5iSLTGtwZuBAdD3tSG00wgIiM6258CkGV0?e=g4vMv6)
 - Duración video: 4:29
 - Screenshot: 
   ![Entrevistado-1](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202413930_upc_edu_pe/IQDh1SBPb7DSQ73erb_Z8gX_AW--6ocemaj16SMFlCVYJkg?e=BovAyo)
 
 
-<u>Resumen de la entrevista:</u>
+**<u>Resumen de la entrevista:</u>**
 Álvaro, practicante de mantenimiento en un hotel de Miraflores, comenta que las fugas de agua son los problemas más frecuentes debido al desgaste de las tuberías, mientras que las de gas son menos comunes, pero de mayor riesgo. La detección depende principalmente de reportes del personal o huéspedes, lo que evidencia un enfoque reactivo.
 
 De tal manera, estos incidentes afectan la experiencia del cliente y la reputación del hotel, por lo que se realizan mantenimientos preventivos, aunque no siempre permiten anticipar fallas. Actualmente no cuentan con monitoreo en tiempo real, lo que limita la detección temprana.
