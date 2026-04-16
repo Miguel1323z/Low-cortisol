@@ -56,7 +56,7 @@
 
 </div>
 
-</div>
+
 <div style="page-break-after: always;"></div>
 
 
@@ -76,7 +76,7 @@ A continuación, se detallan los repositorios utilizados a lo largo del proyecto
 
 #### Link del repositorio del Reporte:
 
-- 
+- https://github.com/upc-pre-202610-1asi0730-2610-LCortisol/Lowcortisol-report.git
 
 #### Link del repositorio de la Landing Page:
 
@@ -237,17 +237,26 @@ Objetivo general, ABET – EAC - Student Outcome 3: Capacidad de comunicarse efe
 ## 1.1. StartUp Profile
 
 ### 1.1.1. Descripción de la StartUp
+El presente informe pretende documentar el desarrollo del Startup “NOMBRESTARTUP”, el cual busca mejorar la prevención y gestión de incidentes en tuberías de agua y gas mediante el uso de tecnología IoT y monitoreo en tiempo real. 
+A través de su aplicativo “NOMBAPLIC”, los usuarios podrán supervisar el estado de sus instalaciones, recibir alertas inmediatas ante fugas o anomalías y tomar acciones rápidas como cerrar válvulas de forma remota o solicitar soporte técnico.
 
-
----
+De este modo, la empresa busca reducir pérdidas económicas, prevenir riesgos para la salud y mejorar la seguridad en hogares, hoteles y otros establecimientos. 
+Asimismo, la solución permitirá optimizar el consumo de recursos y fomentar una gestión más eficiente del agua y gas. 
+Para ello, nuestro grupo demostrará conocimientos en desarrollo web, bases de datos, integración de sensores y gestión de servicios en la nube.
 
 ## Misión
-
----
-
+Nuestra misión es facilitar a los usuarios el control y supervisión de sus sistemas de agua y gas mediante tecnología inteligente, alertas en tiempo real y herramientas de respuesta rápida. 
+Buscamos generar confianza, ahorro y seguridad en hogares y negocios, siempre con un enfoque en innovación, accesibilidad y mejora continua.
 ## Visión
-
-
+Nuestra visión es convertirnos en la empresa líder en soluciones tecnológicas de monitoreo y prevención de fugas de agua y gas en el Perú. 
+Buscamos brindar mayor seguridad, eficiencia y tranquilidad a las personas y negocios mediante herramientas innovadoras y accesibles. Creemos que la tecnología puede prevenir incidentes, reducir desperdicios y mejorar la calidad de vida de la población.
+# Valores
+Nuestros valores principales son los siguientes:  
+-Innovación: Uso de tecnología moderna para resolver problemas cotidianos de forma eficiente.  
+-Seguridad: Priorizamos la protección de las personas, propiedades y negocios.  
+-Responsabilidad: Promovemos el uso adecuado de recursos como el agua y el gas.  
+-Colaboración: Valoramos el trabajo en equipo y la relación con usuarios y aliados estratégicos.  
+-Calidad: Buscamos ofrecer un servicio confiable, estable y fácil de utilizar. 
 ### 1.1.2. Perfiles de integrantes del equipo
 | **Nombre Completo del integrante**    |	**Descripcion de la carrera** | **Fotografia** | **Conocimientos y habilidades**
 | :------------------------------------ |:------------------------------------ |:------------------------------------ |:------------------------------------ |
@@ -259,98 +268,200 @@ Objetivo general, ABET – EAC - Student Outcome 3: Capacidad de comunicarse efe
 
 ## 1.2 *Solution Profile*
 ### 1.2.1 Antecedentes y problemática
+En la actualidad, tanto en hogares como en negocios e instituciones, el uso de tuberías para la distribución de agua y gas es fundamental. Sin embargo, la mayoría de estos sistemas carecen de mecanismos de monitoreo en tiempo real, lo que dificulta la detección oportuna de fugas o fallas.
+A nivel mundial, se han desarrollado soluciones basadas en tecnología IoT para el monitoreo de recursos, pero su adopción aún es limitada en muchos contextos debido a costos, falta de conocimiento o baja accesibilidad tecnológica.
+En el contexto local, es común que los usuarios detecten fugas de agua o gas de forma tardía, cuando ya existen consecuencias como:
 
+-Incremento excesivo en los recibos de servicios.  
+-Daños en infraestructura (paredes, pisos, tuberías).  
+-Riesgos para la salud (intoxicación por gas).  
+-Posibles accidentes graves como explosiones.
+
+Además, la dificultad para encontrar técnicos confiables de forma inmediata agrava la situación, incrementando el tiempo de respuesta ante emergencias. 
+Por ello, se identifica la necesidad de una solución tecnológica que permita el monitoreo continuo, la detección temprana de anomalías y la respuesta rápida ante incidentes.
 
 ## 5W & 2H
+#### Who (¿Quiénes?)  
+Los principales usuarios de la solución son personas que viven en hogares, administradores de hoteles y dueños o responsables de negocios que utilizan agua y gas en sus actividades diarias. También se considera al personal de mantenimiento encargado de revisar las instalaciones.
+
+#### What (¿Qué?)  
+El problema principal es la falta de monitoreo constante en las tuberías de agua y gas. Esto provoca que muchas fugas sean detectadas tarde, generando desperdicio de recursos, gastos elevados, daños en la infraestructura y riesgos para la seguridad.
+
+#### Where (¿Dónde?)  
+Esta problemática puede presentarse en viviendas, hoteles, restaurantes, edificios y otros establecimientos que cuenten con redes internas de agua y gas.
+
+#### When (¿Cuándo?)  
+Puede ocurrir en cualquier momento, especialmente cuando no existe supervisión constante, las tuberías son antiguas o no se realiza mantenimiento preventivo.
+
+#### Why (¿Por qué?)  
+Porque la mayoría de personas detecta los problemas cuando ya son visibles, por ejemplo al notar humedad, malos olores, baja presión o recibos elevados. Además, muchas instalaciones no cuentan con herramientas tecnológicas para prevenir fallas.
+
+#### How (¿Cómo?)  
+La solución propone utilizar sensores IoT conectados a una plataforma web que permita monitorear en tiempo real, enviar alertas inmediatas y tomar acciones rápidas como cerrar válvulas o contactar soporte técnico.
+
+#### How Much (¿Cuánto impacta?)  
+El impacto puede ser económico por altos costos en recibos y reparaciones, operativo por interrupciones del servicio y de seguridad por riesgos como intoxicaciones o explosiones en caso de fugas de gas.
+
 ## Objetivos
-## Restricciones
+### Corto Plazo
+-Desarrollar un producto mínimo viable con las funciones principales del sistema.  
+-Implementar registro e inicio de sesión de usuarios.  
+-Integrar el monitoreo básico de agua y gas mediante sensores IoT.  
+-Configurar alertas iniciales ante fugas o anomalías detectadas.  
+-Realizar pruebas con usuarios para validar la usabilidad y funcionamiento del sistema.  
+-Recoger retroalimentación para identificar mejoras.
+### Medio Plazo
+-Mejorar la plataforma con nuevas funcionalidades según las necesidades detectadas.  
+-Implementar historial de consumo y reportes detallados.
+### Largo Plazo
+-Expandir el servicio a más ciudades del país.  
+-Establecer alianzas con municipalidades, negocios y empresas de servicios.  
+-Posicionar la marca como referente en monitoreo y prevención de fugas de agua y gas.  
+-Desarrollar nuevas soluciones relacionadas con automatización y seguridad inteligente.
+## Restricciones  
+-La solución debe desarrollarse como una plataforma web compuesta por una Landing Page, una Web Application y una RESTful API propia integrada entre sí.  
+-La interfaz debe ser adaptable a distintos dispositivos, como computadoras, tablets y celulares.  
+-El sistema debe mantener una experiencia visual y funcional consistente entre la Landing Page y la Web Application.  
+-Los botones de llamada a la acción (Call To Action) de la Landing Page deben redirigir correctamente a las vistas correspondientes dentro de la Web Application.  
+-La solución debe integrar al menos un servicio externo de terceros, como mapas, correo, notificaciones o autenticación.  
+-El desarrollo debe utilizar tecnologías open-source y herramientas alineadas con lo aprendido en el curso.  
+-La lógica del lado servidor debe ser compatible con el enfoque solicitado en el curso, utilizando C# cuando corresponda.  
+-El proyecto debe gestionarse en un repositorio público de GitHub con evidencias de colaboración mediante commits.  
+-El equipo debe aplicar GitFlow y conventional commits durante el desarrollo del proyecto.  
+-El sistema dependerá de conexión a internet para funciones en tiempo real como monitoreo, alertas y sincronización de datos.  
+-La instalación de sensores IoT puede representar un costo inicial para los usuarios.  
+-Algunas instalaciones antiguas podrían presentar dificultades de compatibilidad con los sensores.  
+-El alcance inicial del proyecto estará enfocado en segmentos priorizados y funcionalidades principales del producto mínimo viable.  
+-El tiempo disponible del ciclo académico limita la implementación de funcionalidades avanzadas en la primera versión.  
+-Será necesario aplicar medidas de seguridad para proteger la información de usuarios y dispositivos conectados.
 ### 1.2.2 Lean UX Process
 #### 1.2.2.1 Lean UX Problem Statements
-text
+El sistema propuesto tiene como objetivo principal permitir que los usuarios puedan monitorear en tiempo real el estado de sus tuberías de agua y gas, con la finalidad de prevenir fugas, reducir el desperdicio de recursos y evitar riesgos en hogares, negocios e instituciones.  
+Actualmente, muchas personas no cuentan con herramientas que les permitan detectar fugas de manera inmediata, lo que genera problemas como incremento en los recibos, daños en la infraestructura, pérdida de recursos y, en el caso del gas, situaciones de alto riesgo como intoxicaciones o explosiones. En la mayoría de casos, los usuarios detectan estos problemas cuando ya han ocurrido consecuencias graves.  
+Además, en contextos donde las instalaciones son grandes, como edificios, hoteles o restaurantes, resulta aún más complicado monitorear manualmente el estado de las tuberías. Esto provoca que pequeñas fugas pasen desapercibidas durante largos periodos de tiempo.  
+Por otro lado, también existe una dificultad al momento de encontrar técnicos confiables de manera rápida, lo que retrasa la solución del problema y aumenta los daños. A esto se suma la falta de sistemas automatizados que permitan tomar acciones inmediatas, como el cierre de válvulas ante una emergencia.  
+Frente a esta problemática, se propone desarrollar un sistema basado en tecnología IoT que permita monitorear, detectar y alertar sobre anomalías en tiempo real, brindando al usuario la capacidad de actuar de manera rápida y eficiente. Asimismo, se considera importante la seguridad del sistema, evitando accesos no autorizados que puedan manipular los dispositivos conectados.  
+De esta manera, la solución no solo busca mejorar la calidad de vida de los usuarios, sino también optimizar el uso de recursos y prevenir incidentes que puedan afectar tanto a nivel económico como de seguridad.
+ 
 
 #### 1.2.2.1 Lean UX Assumptions
 
  + **User Assumptions:** 
 
-###### Pregunta 1
+###### ¿Quién es el usuario?
 
-text
+Personas que viven en hogares, dueños de negocios (restaurantes, hoteles) y entidades que necesitan monitorear consumo de agua y gas.
 
-###### Pregunta 2
+###### ¿Qué problemas tiene nuestro producto que debe resolver?
 
-text
+Falta de detección temprana de fugas, desconocimiento del consumo y ausencia de herramientas de monitoreo continuo.
 
-###### Pregunta 3
+###### ¿Qué características son importantes?
 
-text
+Facilidad de uso, monitoreo en tiempo real, alertas inmediatas, visualización clara de datos y control remoto.
 
-###### Pregunta 4
+###### ¿Dónde encaja nuestro producto en su vida?
 
-text
+En la gestión diaria del hogar o negocio, como una herramienta de prevención y control.
 
-###### Pregunta 5
+###### ¿Cuándo y cómo es usado?
 
-text
+De forma continua, con revisiones periódicas por parte del usuario y alertas automáticas en caso de incidentes.
 
-###### Pregunta 6
+###### ¿Cómo debe verse y comportarse el producto?
 
-text
+Intuitivo, moderno, accesible, con información clara y alertas fáciles de entender.
 
  + **Business Outcomes:**
 
-1. **title**: text
+1. **Creo que mis clientes necesitan…** Una forma rápida, automática y confiable de detectar fugas y controlar su consumo de agua y gas.
 
-2. **title**: text
+2. **Estas necesidades se pueden resolver con…** Un aplicativo conectado a sensores IoT que monitorean en tiempo real y generan alertas inteligentes.
 
-3. **title**: text
+3. **Mis clientes iniciales son…** Hogares y pequeños negocios preocupados por costos y seguridad.
 
-4. **title**: text
+4. **El valor #1 que un cliente quiere es…** Prevenir pérdidas económicas y evitar riesgos en su entorno.
 
-5. **title**: text
+5. **Beneficios adicionales…** Mayor seguridad, control remoto, historial de consumo y acceso a técnicos.
 
-6. **title**: text
+6. **Voy a adquirir clientes a través de…** Redes sociales, alianzas con empresas de servicios y recomendaciones.
 
-7. **title**: text
+7. **Mi competencia es…** Sistemas de sensores IoT y soluciones de domótica.
 
-8. **title**: text
+8. **Haré dinero a través de…** Planes de suscripción y servicios adicionales.
 
-9. **title**: text
+9. **Los venceremos porque…** Ofrecemos una solución integral, accesible y centrada en el usuario.
 
-10. **title**: text
+10. **Mayor riesgo de producto…** Que los usuarios no comprendan el funcionamiento del sistema o no instalen correctamente los sensores.
 
-11. **title**: text
+11. **Lo resolveremos con…** Guías de instalación, interfaz intuitiva y soporte desde el aplicativo.
 
-12. **title**: text
-
+12. **Otra suposición crítica…** Que los usuarios utilizarán el sistema de forma constante para monitorear su consumo.
 
 #### 1.2.2.1 Lean UX Hypothesis Statements
 
 ###### Hipótesis 1:
 
-text
+Creemos que, si implementamos monitoreo en tiempo real para detectar fugas de agua y gas, los usuarios podrán actuar más rápido y reducir pérdidas económicas.
 
-**Business Outcome:** text<br>
-**Users:** text<br>
-**User Outcome:** text<br>
-**Feature:** text<br>
+**Business Outcome:** Incrementar adopción del servicio y satisfacción del cliente.<br>
+**Users:** Hogares.<br>
+**User Outcome:** Detectan incidentes a tiempo y evitan daños mayores.<br>
+**Feature:** Monitoreo en tiempo real con panel de control.<br>
 
 ###### Hipótesis 2:
 
-text
+Creemos que, si el sistema envía alertas inmediatas al detectar anomalías, se reducirá el tiempo de respuesta frente a emergencias.
 
-**Business Outcome:** text<br>
-**Users:** text<br>
-**User Outcome:** text<br>
-**Feature:** text<br>
+**Business Outcome:** Mejorar percepción de valor del servicio y retención de usuarios.<br>
+**Users:** Hogares, Hoteles y Municipalidades.<br>
+**User Outcome:** Responden rápidamente ante fugas o riesgos críticos.<br>
+**Feature:** Notificaciones push, correo y alertas automáticas.<br>
 
 ###### Hipótesis 3:
 
-text
+Creemos que, si mostramos historial de consumo y reportes claros, los usuarios tomarán mejores decisiones para optimizar recursos.
 
-**Business Outcome:** text<br>
-**Users:** text<br>
-**User Outcome:** text<br>
-**Feature:** text<br>
+**Business Outcome:** Mayor uso recurrente de la plataforma.<br>
+**Users:** Hogares y Hoteles.<br>
+**User Outcome:** Controlan gastos y detectan consumos inusuales.<br>
+**Feature:** Historial, gráficas y reportes descargables.<br>
+
+###### Hipótesis 4:
+
+Creemos que, si incorporamos control remoto de válvulas, los usuarios sentirán mayor seguridad y control ante incidentes.
+
+**Business Outcome:** Diferenciación competitiva y mayor interés por planes avanzados.<br>
+**Users:** Hoteles y Municipalidades.<br>
+**User Outcome:** Reducen riesgos sin esperar intervención presencial.<br>
+**Feature:** Apertura y cierre remoto de válvulas.<br>
+
+###### Hipótesis 5:
+
+Creemos que, si ofrecemos gestión multiubicación y múltiples dispositivos, organizaciones con varias instalaciones adoptarán la solución con mayor facilidad.
+
+**Business Outcome:** Captación de clientes empresariales e institucionales.<br>
+**Users:** Hoteles y Municipalidades.<br>
+**User Outcome:** Supervisan varias zonas desde una sola plataforma.<br>
+**Feature:** Gestión por zonas y múltiples sensores.<br>
+
+###### Hipótesis 6:
+
+Creemos que, si aplicamos análisis inteligente de patrones de consumo, se podrán prevenir fallas antes de que ocurran.
+
+**Business Outcome:** Posicionamiento innovador y mayor valor percibido.<br>
+**Users:** Hoteles y Municipalidades.<br>
+**User Outcome:** Reciben advertencias tempranas y reducen incidentes repetitivos.<br>
+**Feature:** Detección temprana con IA y análisis predictivo.<br>
+
+###### Hipótesis 7:
+
+Creemos que, si la plataforma ofrece planes diferenciados según necesidad del cliente, aumentará la conversión a suscripciones pagadas.
+
+**Business Outcome:** Crecimiento sostenible de ingresos mensuales.<br>
+**Users:** Hogares, Hoteles y Municipalidades.<br>
+**User Outcome:** Contratan un plan ajustado a sus necesidades reales.<br>
+**Feature:** Plan Hogar, Plan Smart y Plan Full Service.<br>
 
 #### 1.2.2.1 Lean UX Canvas
 
@@ -359,66 +470,149 @@ text
 <tr>  
 <td>  
 <h2>Business Problem</h2>  
-- text.  <br>
-- text.  <br>
-- text.
+- Actualmente, en hogares y organizaciones, muchas fugas de agua y gas se detectan cuando el problema ya generó daños económicos, desperdicio de recursos o riesgos para la seguridad. Esto ocurre porque la mayoría de instalaciones no cuenta con monitoreo continuo ni herramientas de alerta temprana.<br>
+- Además, los procesos de revisión suelen ser manuales y reactivos, lo que retrasa la respuesta ante incidentes y eleva los costos de mantenimiento. En negocios e instituciones, estas fallas también pueden afectar operaciones, reputación y calidad del servicio.<br>
+
 </td>  
 <td>  
 <h2>Solutions</h2>  
--  title: text. <br>
--  title: text. <br>
--  title: text.
+- <b>Monitoreo en tiempo real:</b> Supervisión constante de flujo, presión y presencia de gas.<br>
+- <b>Alertas inmediatas:</b> Notificaciones automáticas ante anomalías detectadas.<br>
+- <b>Panel web adaptable:</b> Acceso desde celular, tablet o computadora.<br>
+- <b>Historial y reportes:</b> Registro de consumos e incidencias.<br>
+- <b>Control remoto:</b> Gestión de válvulas según el plan contratado.
 </td>  
 <td>  
 <h2>Business Outcomes</h2>  
-- text. <br>
-- text. <br>  
-- text.
+- Incrementar adopción del servicio en hogares y organizaciones.<br>
+- Generar ingresos recurrentes mediante planes de suscripción.<br>
+- Posicionar la marca como solución innovadora y confiable.<br>
+- Reducir cancelaciones gracias al valor percibido del servicio.<br>
+- Escalar el producto a nuevas ciudades y segmentos de mercado.
+
 </td>  
 </tr>  
 <tr>  
 <td>  
 <h2>Users</h2>  
-- text. <br>
-- text.
+- Propietarios de viviendas.<br>
+- Familias preocupadas por seguridad y ahorro.<br>
+- Administradores de hoteles.<br>
+- Jefes de mantenimiento y operaciones.<br>
+- Gestores de infraestructura pública.
 </td>  
 <td></td>  
 <td>  
 <h2>User Outcomes & Benefits</h2>  
-- text.  <br>
-- text.  <br>
-- text.
+- Detectar fugas antes de que generen daños graves.<br>
+- Reducir gastos por consumo no controlado.<br>
+- Mejorar la seguridad del hogar o negocio.<br>
+- Ahorrar tiempo en revisiones manuales.<br>
+- Tener mayor control, tranquilidad y capacidad de respuesta.
 </td>  
 </tr>  
 <tr>  
 <td>  
 <h2>Hypotheses</h2>  
-- text. <br>
-- text. <br>
-- text.
+- Si implementamos monitoreo en tiempo real, los usuarios actuarán más rápido y reducirán pérdidas.<br>
+- Si el sistema envía alertas inmediatas, disminuirá el tiempo de respuesta ante emergencias.<br>
+- Si mostramos historial y reportes claros, los usuarios optimizarán su consumo.<br>
+- Si existe control remoto de válvulas, aumentará la percepción de seguridad.<br>
+- Si ofrecemos planes diferenciados, crecerá la conversión a suscripciones pagadas.
 </td>  
 <td>  
 <h2>What’s the most important thing we need to learn first?</h2>  
-- text. <br>
-- text. <br>
-- text.
+- Si los usuarios realmente pagarían por esta solución.<br>
+- Qué problema valoran más: ahorro, seguridad o control.<br>
+- Qué funciones consideran esenciales en la primera versión.<br>
+- Qué segmento adoptaría primero el producto.<br>
+- Qué precio consideran razonable según el valor ofrecido.
 </td>  
 <td>  
 <h2>What’s the least amount of work we need to do to learn the next most important thing?</h2>  
-- text.  <br>
-- text.  <br>
-- text.
+- Crear una Landing Page con la propuesta de valor.<br>
+- Diseñar un prototipo navegable en Figma.<br>
+- Validar la idea mediante entrevistas a segmentos objetivo.<br>
+- Probar interés en planes, funciones y precios.<br>
+- Lanzar un MVP con monitoreo y alertas básicas.
+
 </td>  
 </tr>  
 </table>
 
-## 1.3 Segmentos objetivo
+## 1.3 Segmentos objetivos
 El proyecto busca atender a usuarios que requieren soluciones de automatización accesibles y no invasivas, con un enfoque en dos segmentos principales:
 
-- Segmento 1.  
-text.
-- Segmento 2.  
-text.
+- ### Segmento 1: Usuarios Residenciales (B2C).  
+Definición:
+Personas que viven en viviendas (casas o departamentos) y buscan mejorar la seguridad del hogar y optimizar el consumo de agua y gas mediante tecnología.
+
+**Características:**
+
+Interés en tecnología (IoT, smart home)
+Uso frecuente de smartphones
+Nivel técnico bajo o medio
+Toman decisiones individuales o familiares
+
+**Necesidades clave:**
+
+Detectar fugas rápidamente
+Reducir costos en servicios
+Tener control simple desde el celular
+
+**Dolores (pain points):**
+
+Fugas detectadas tarde
+Recibos elevados
+Falta de monitoreo en tiempo real
+
+**Motivaciones:**
+
+Seguridad familiar
+Ahorro económico
+Comodidad
+
+### Segmento 2: Profesionales de Infraestructura y Gestión Operativa (B2B).  
+**Definición:**
+Personas responsables de la gestión, mantenimiento y operación de infraestructuras en organizaciones como municipalidades, hoteles, edificios o empresas.
+
+Ojo importante:
+Aquí no son “las organizaciones”, sino las personas dentro de ellas (decision makers / usuarios del sistema).
+
+Ejemplos:
+
+Administrador de hotel
+Jefe de mantenimiento
+Gestor municipal de servicios
+
+**Características:**
+
+Perfil técnico o administrativo
+Manejan múltiples instalaciones
+Toman decisiones basadas en datos
+
+**Necesidades clave:**
+
+Monitoreo centralizado
+Prevención de fallas
+Reportes y control por zonas
+
+**Dolores (pain points):**
+
+Falta de visibilidad en tiempo real
+Detección tardía de problemas
+Costos por mantenimiento reactivo
+
+**Motivaciones:**
+
+Eficiencia operativa
+Reducción de riesgos
+Cumplimiento de estándares
+
+El sistema se orienta a dos segmentos principales:  
+(1) Usuarios residenciales con interés en tecnología y seguridad del hogar, que buscan prevenir fugas y optimizar el consumo.  
+(2) Profesionales de infraestructura, mantenimiento y gestión operativa en organizaciones como municipalidades, hoteles o edificios, quienes requieren monitoreo centralizado, prevención de fallas y eficiencia en la gestión de recursos.
+
 # Capitulo II: Requirements Elicitation & Analysis
 ## 2.1 Competidores
 text. 
