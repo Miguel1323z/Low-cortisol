@@ -34,7 +34,7 @@
         <td>Condori Torres, Miguel Anibal</td>
       </tr>
       <tr>
-        <td>U--------</td>
+        <td>U202115277</td>
         <td>Delgado Perez, James Caleb</td>
       </tr>
       <tr>
@@ -46,7 +46,7 @@
         <td>Montalvo Vasquez, Bruno Rodrigo</td>
       </tr>
       <tr>
-        <td>U---------</td>
+        <td>U202411378</td>
         <td>Quiliano Motta, Kirk Douglas</td>
       </tr>
     </tbody>
@@ -433,64 +433,65 @@ text
     <td>¿Por qué llevar a cabo este análisis?</td>
     <td colspan="5"> Queremos saber cómo está posicionado cada posible competidor con nuestro producto, así podemos detectar ventajas competitivas y diferenciar nuestra propuesta de valor.</td>
   </tr>
-  <tr>
+  <tr align= "center">
     <td colspan="2">Nombre y logo de competidor</td>
-    <td><b>LowCortisol <img src="" width="120" height="120" /> </b></td>
-    <td><b>Producto 1</b> <img src="" width="120" height="120" /> </td>
-    <td><b>Producto 2</b> <img src="" width="120" height="120" /> </td>
-    <td><b>Producto 3</b> <img src="" width="120" height="120" /> </td>
+    <td><b>LowCortisol <br> <img src="assets/md-images/md-chapter 2/LowCortisol_logo.png" width="120" height="120" /> </b></td>
+    <td><b>Aqara Smart Sensors</b> <br> <img src="assets/md-images/md-chapter 2/aqara_logo.png" width="120" height="120" /> </td>
+    <td><b>Honeywell Home</b> <br> <img src="assets/md-images/md-chapter 2/HoneywellHome_logo.png" width="120" height="120" /> </td>
+    <td><b>Fibaro Flood Sensor</b> <br> <img src="assets/md-images/md-chapter 2/HoneywellHome_logo.png" width="120" height="120" /> </td>
   </tr>
   <tr>
     <td rowspan="2"><b>Perfil</b></td>
     <td><b>Overview</b></td>
-    <td> text </td>
-    <td> text </td>
-    <td> text </td>
-    <td> text </td>
+    <td> Startup IoT que monitorea agua y gas en tiempo real para prevenir fugas y mejorar la seguridad</td>
+    <td> Empresa enfocada en dispositivos IoT para hogares inteligentes, incluyendo sensores de agua, movimiento y automatización</td>
+    <td> Empresa multinacional que ofrece soluciones industriales y de seguridad, incluyendo monitoreo de gas</td>
+    <td> Empresa especializada en domótica con sensores inteligentes, incluyendo detección de agua </td>
   </tr>
   <tr>
     <td><b>Ventaja competitiva ¿Qué valor ofrece a los clientes?</b></td>
-    <td> - text.<br> - text.<br> - text. </td>
-    <td> - text.<br> - text.<br> - text. </td>
-    <td> - text.<br> - text.<br> - text. </td>
-    <td> - text.<br> - text.<br> - text. </td>
+    <td> - Monitoreo en tiempo real<br> - Alertas inmediatas<br> - Control remoto de válvulas <br> - Contacto con técnicos desde la app </td>
+    <td> - Ofrece dispositivos accesibles y fáciles de integrar en ecosistemas de domótica<br> - Fácil integración con ecosistemas como Apple HomeKit y Google Home<br> - Instalación sencilla y uso amigable para el hogar inteligente . </td>
+    <td> - Alta precisión y confiabilidad en sistemas de monitoreo<br> - Experiencia industrial con soluciones robustas y seguras<br> - Marca reconocida a nivel mundial en tecnología y seguridad </td>
+    <td> - Diseño premium y estética elegante<br> - Automatización avanzada para hogares inteligentes<br> - Alta calidad en sensores y dispositivos IoT </td>
   </tr>
   <tr>
     <td rowspan="2"><b>Perfil de Marketing</b></td>
     <td><b>Mercado objetivo</b></td>
-    <td>- text.<br>- text.</td>
-    <td>- text.<br>- text.<br>- text.</td>
-    <td>- text.<br>- text.<br>- text.</td>
-    <td>- text.<br>- text.</td>
+    <td>- Personas que viven en viviendas propias o alquiladas<br>- Entidades públicas encargadas de servicios básicos <br>-Negocios que priorizan la continuidad del servicio
+ </td>
+    <td>- Usuarios de hogares inteligentes<br>- Público que busca tecnología accesible<br>- Personas interesadas en automatización básica del hogar</td>
+    <td>- Empresas e industrias<br>- Infraestructuras grandes<br>- Organizaciones que requieren alta seguridad y monitoreo</td>
+    <td>- Usuarios de clase media-alta<br>- Personas interesadas en domótica avanzada<br>- Hogares que buscan automatización premium</td>
   </tr>
   <tr>
     <td><b>Estrategias de marketing</b></td>
-    <td>- text.<br>- text.<br>- text.</td>
-    <td>- text.<br>- text.<br>- text.</td>
-    <td>- text.<br>- text.</td>
-    <td>- text.<br>- text.<br>- text.</td>
+    <td>- Redes sociales (Facebook, TikTok, Instagram)<br>- Alianzas con empresas como SEDAPAL y Cálidda<br>- Demostraciones del producto</td>
+    <td>- Venta online (Amazon, web)<br>- Integración con ecosistemas como Apple <br>- text.</td>
+    <td>- Alianzas empresariales<br>- Reputación de marca</td>
+    <td>- Distribuidores autorizados<br>- Presencia en smart homes</td>
   </tr>
   <tr>
     <td rowspan="3"><b>Perfil de Producto</b></td>
     <td><b>Productos y Servicios</b></td>
-    <td>- text.</td>
-    <td>- text.</td>
-    <td>- text.</td>
-    <td>- text.</td>
+    <td>- Sensores IoT de agua y gas, aplicación móvil, alertas en tiempo real, historial y análisis de consumo, control remoto de válvulas y contacto con técnicos</td>
+    <td>- Sensores de fugas de agua, sensores de movimiento y automatización del hogar</td>
+    <td>- Detectores de gas, sistemas de seguridad industrial y monitoreo avanzado</td>
+    <td>- Sensores de inundación, automatización del hogar y dispositivos inteligentes premium</td>
   </tr>
   <tr>
     <td><b>Precios y Costos</b></td>
-    <td>text.</td>
-    <td>text.</td>
-    <td>text.</td>
-    <td>text.</td>
+    <td>Modelo accesible, suscripción mensual y planes según tipo de usuario</td>
+    <td>Precios accesibles enfocados en el hogar</td>
+    <td>Precios altos orientados al sector industrial</td>
+    <td>Precios altos por enfoque premium</td>
   </tr>
   <tr>
     <td><b>Canales de distribución (Web y/o móvil)</b></td>
-    <td>- text.</td>
-    <td>- text.<br>- text.</td>
-    <td>- text.<br>- text.</td>
-    <td>- text.<br>- text.<br>- text.</td>
+    <td>- Aplicación móvil <br> - Página web <br> - Instalación con técnicos aliados</td>
+    <td>- Aplicación móvil <br> - Página web</td>
+    <td>- Ventas directas<br>- Distribuidores especializados</td>
+    <td>- Aplicación móvil <br> - Página web</td>
   </tr>
   <tr>
     <td rowspan="5"><b>Análisis SWOT</b></td>
@@ -498,124 +499,300 @@ text
   </tr>
   <tr>
     <td><b>Fortalezas</b></td>
-    <td>- text.<br>- text.<br>- text.</td>
-    <td>- text.<br>- text.<br>- text.<br>- text</td>
-    <td>- text.<br>- text.<br>- text.</td>
-    <td>- text.<br>- text.</td>
+    <td>- Accesible económicamente<br>- Monitoreo y acción inmediata<br>- Fácil uso gracias a su interfaz</td>
+    <td>- Fácil instalación<br>- Integración con smart homes</td>
+    <td>- Alta precisión<br>- Marca reconocida<br>- Tecnología avanzada</td>
+    <td>- Diseño atractivo<br>- Automatización avanzada</td>
   </tr>
   <tr>
     <td><b>Debilidades</b></td>
-    <td>- text.</td>
-    <td>- text.</td>
-    <td>- text.<br>- text.</td>
-    <td>- text.<br>- text.<br>- text.</td>
+    <td>- Dependencia de internet y dispositivos IoT</td>
+    <td>- No especializado en gas</td>
+    <td>- No enfocado en usuarios comunes<br>- Alto costo</td>
+    <td>- Complejidad de uso</td>
   </tr>
   <tr>
     <td><b>Oportunidades</b></td>
-    <td>- text.<br>- text.</td>
-    <td>- text.<br>- text.</td>
-    <td>- text.<br>- text.</td>
-    <td>- text.<br>- text.</td>
+    <td>- Alta demanda de soluciones de seguridad<br>- Posibles alianzas con empresas de servicios</td>
+    <td>- Crecimiento del IoT<br>- Expansión en mercados emergentes</td>
+    <td>- Expansión industrial</td>
+    <td>- Crecimiento del mercado smart home<br>- Integración con IA</td>
   </tr>
   <tr>
     <td><b>Amenazas</b></td>
-    <td>- text.<br>- text.</td>
-    <td>- text.<br>- text.</td>
-    <td>- text.<br>- text.</td>
-    <td>- text.<br>- text.</td>
+    <td>- Problemas de conectividad en algunas zonas</td>
+    <td>- Cambios tecnológicos rápidos</td>
+    <td>- Nuevas startups más accesibles<br>- Competidores tecnológicos</td>
+    <td>- Cambios tecnológicos<br>- Competidores más económicos</td>
   </tr>
 </table>
 
 ### **2.1.2 Estrategias y tácticas frente a competidores**
 A partir del análisis competitivo realizado, se han definido las siguientes estrategias y tácticas para posicionar a LowCortisol en el mercado peruano y afrontar las fortalezas de la competencia.
 
-##### **1. title**
+##### **Diferenciación y accesibilidad**
 **Estrategia**
 
-text.
+La startup Low Cortisol adoptará una estrategia de diferenciación y accesibilidad, enfocándose en ofrecer una solución integral, fácil de usar y adaptada al contexto latinoamericano. A diferencia de competidores como Aqara, Fibaro y Honeywell, se centrará en el usuario común, brindando monitoreo en tiempo real, alertas inmediatas y control de acciones ante fugas de agua y gas.
+
+Para enfrentar sus fortalezas, se apostará por la simplificación tecnológica y la especialización, ofreciendo una interfaz intuitiva y funciones enfocadas en la prevención de fugas. Además, se aprovecharán debilidades como los altos costos y la complejidad mediante precios accesibles y planes flexibles.
+
 
 **Tácticas**
 
-- **title:** text.
-- **title:** text.
-- **title:** text.
+- **Precio accesible:** Implementar planes económicos y suscripciones flexibles.
+- **Interfaz simple:** Diseñar una app intuitiva y fácil de usar.
+- **Especialización:** Enfocar el producto solo en detección de agua y gas.
 
 **Valor Añadido**
 
-- text.
-- text.
+- Mayor accesibilidad para el usuario promedio
+- Solución práctica y fácil de implementar
 
-##### **2.  title**
+##### **2.  Enfoque en nichos y educación del usuario**
 **Estrategia**
 
-text.
+Low Cortisol adoptará una estrategia de enfoque en nichos específicos como hogares, hoteles y municipalidades, priorizando segmentos con alta necesidad de prevención de fugas. Además, se buscará educar al usuario sobre la importancia del monitoreo preventivo, generando confianza y facilitando la adopción tecnológica frente a la resistencia al cambio.
 
 **Tácticas**
 
-- **title:** text.
-- **title:** text.
-- **title:** text.
+- **Marketing educativo:** Contenido en redes sobre prevención de fugas.
+- **Demostraciones:** Pruebas del producto en campo y presentaciones.
+- **Alianzas estratégicas:** Convenios con empresas como servicios de agua y gas.
 
 **Valor Añadido**
 
-- text.
-- text.
+- Mayor adopción del producto en el mercado.
+- Posicionamiento como solución confiable y preventiva.
 
-##### **3.  title**
+##### **3.  Innovación tecnológica**
 **Estrategia**
 
-text.
+Low Cortisol adoptará una estrategia de innovación continua, incorporando mejoras tecnológicas constantes en su sistema IoT para mantenerse competitivo frente a empresas como Aqara, Fibaro y Honeywell. Se enfocará en desarrollar funcionalidades avanzadas como análisis predictivo de consumo, detección temprana de anomalías y mejoras en la conectividad, con el objetivo de ofrecer una solución más inteligente y eficiente.
 
 **Tácticas**
 
-- **title:** text.
-- **title:** text.
-- **title:** text.
+- **Mejora continua:** Actualizaciones constantes de la app y sensores.
+- **Análisis de datos:** Implementar reportes inteligentes y predicción de fugas.
+- **Integración tecnológica:** Compatibilidad con otros sistemas IoT y smart home.
 
 **Valor Añadido**
 
-- text.
-- text.
+- Mayor precisión y anticipación de problemas.
+- Diferenciación tecnológica frente a la competencia.
 
 ## 2.2 Entrevistas
 ### 2.2.1. Diseño de entrevistas
 
-##### Preguntas Generales
+#### Segmento: Usuarios residenciales con interés con tecnología y seguridad del hogar
+ 
+1. ¿Ha tenido alguna fuga de agua o gas en su vivienda?
+2. ¿Con qué frecuencia ocurren estos problemas?
+3. ¿Cómo suele detectar una fuga o anomalía?
+4. ¿Cuánto tiempo tarda en darse cuenta del problema?
+5. ¿Qué consecuencias ha tenido (costos, daños, riesgos)?
+6. ¿Cómo soluciona actualmente estos incidentes?
+7. ¿Le resulta fácil encontrar técnicos confiables?
+8. ¿Qué tan importante es para usted la seguridad en su hogar?
+9. ¿Le preocupa el consumo de agua o gas mensual?
+10. ¿Usaría un sistema que le notifique en tiempo real sobre fugas?
+11. ¿Qué funcionalidades le gustaría que tenga este sistema?
+12. ¿Estaría dispuesto a pagar por un servicio de monitoreo?
 
-- ¿Cuál es su nombre?
-- ¿Cuántos años tiene usted?
-- ¿En qué ciudad y distrito reside?
-- ¿A qué se dedica y cuál es su formación académica?
-- ¿?  
-- ¿?
-- ¿?
-- ¿?
-##### Preguntas Específicas
+#### Segmento: Profesionales de Infraestructura, Mantenimiento y Gestión Operativa
 
-###### Segmento 1: text
-
-1. ¿?
-2. ¿?
-3. ¿?
-4. ¿?
-5. ¿?
-6. ¿?
-7. ¿?
-8. ¿?
-
-###### Segmento 2: text
-
-1. ¿?
-2. ¿?
-3. ¿?
-4. ¿?
-5. ¿?
-6. ¿?
-7. ¿?
-8. ¿?
+1. ¿Cómo gestionan actualmente el monitoreo de redes de agua o gas?
+2. ¿Existen pérdidas frecuentes en la infraestructura? ¿Cuáles son las principales causas?
+3. ¿Han tenido problemas relacionados con fugas de agua o gas? ¿Con qué frecuencia ocurren estos incidentes?
+4. ¿Cómo detectan actualmente las fugas o fallas?
+5. ¿Cuánto tiempo tarda el proceso de detección y reparación?
+6. ¿Cuentan con un sistema de monitoreo continuo? ¿Qué tecnologías utilizan?
+7. ¿Qué limitaciones presentan los sistemas actuales?
+8. ¿Qué impacto generan estas fallas en la comunidad o en la experiencia del cliente?
+9. ¿Qué medidas toman para prevenir fallas? ¿Cómo gestionan el mantenimiento de sus instalaciones?
+10. ¿Qué tan importante es evitar interrupciones en el servicio?
+11. ¿Qué tan importante es la optimización del consumo de recursos?
+12. ¿Les interesaría recibir alertas en tiempo real?
+13. ¿Considerarían implementar soluciones basadas en IoT?
+14. ¿Qué características y funcionalidades consideran clave en una solución de monitoreo?
+15. ¿Qué dificultades ven en la implementación de este tipo de sistemas?
+16. ¿Estarían dispuestos a invertir en este tipo de solución? ¿Qué beneficios esperan obtener?
 
 
-### 2.2.2. Registro de entrevistas 
+### 2.2.2 Registro Entrevistas
+
+#### Segmento: Hogares
+
+##### Entrevista 1 - Segmento: Hogares
+
+**Datos del Entrevistado:**
+- Edad: 19
+- Nombre: Yazid Dumet Isaac Pinto
+- Ocupación: Estudiante de Ingenieria  Mecatronica
+- Distrito: Molina
+
+**Evidencia:**
+- URL: [Entrevista - 1](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202411378_upc_edu_pe/IQD7BHUGgfX-R6Oz1emzH8bFAQ5R1r1xMT7iyeOb6NyvI0c?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=TAg39Z)
+- Duración video: 4:24
+- Screenshot: 
+  ![Entrevistado-1](https://upcedupe-my.sharepoint.com/:i:/g/personal/u202411378_upc_edu_pe/IQCQGEfRWVH6TLcr3I0c7lP5Aakp02sv6gcUb_jZen03Ib8?e=K3w4YT)
+
+
+**<u>Resumen de la entrevista:</u>**
+Yazid es un estudiante de Ingeniería Mecatrónica que habita en una vivienda con más de 40 años de antigüedad, factor que vuelve las fugas de agua un problema crónico debido al desgaste natural de la red. Describe que la detección actual es tardía y depende de señales visuales como hongos, caída de pintura, baja presión en los grifos o el impacto económico en los recibos mensuales. Para él, el impacto más fuerte es el desperdicio de recursos y el riesgo de seguridad que implican las fugas de gas. Su perfil académico lo hace especialmente receptivo a soluciones tecnológicas avanzadas; espera una herramienta que no solo envíe alertas al móvil e identifique la zona exacta del fallo, sino que también ofrezca la capacidad de cortar el suministro de forma remota (válvulas inteligentes). Yazid valora la eficiencia y la innovación, considerando que una solución así mejoraría drásticamente la seguridad del hogar y reduciría el gasto innecesario de agua.
+
+
+##### Entrevista 2 - Segmento: Hogares
+
+**Datos del Entrevistado:**
+- Edad: 19
+- Nombre: Jesus Huaman
+- Ocupación: Estudiante de Ing de Software
+- Distrito: Ate
+
+**Evidencia:**
+- URL: [Entrevista - 2](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202411378_upc_edu_pe/IQDbk1DYJMu7TqQ7YVonCc7kAfORlvBeEqx0ePXhcOI9QBs?e=UhgedF&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+- Duración video: 8:41
+- Screenshot: ![Entrevistado-2](https://upcedupe-my.sharepoint.com/:i:/g/personal/u202411378_upc_edu_pe/IQBFJzGW3bK0SoA2oyThe0AoAfVqaqoO0QSCJ9a8YOHuuWA?e=RVhzTc)
+
+**<u>Resumen de la entrevista:</u>** 
+Jesús es un estudiante con conocimientos técnicos previos que vive en un entorno familiar donde se presentan fugas tanto de agua como de gas, estas últimas generalmente por el uso de mangueras de baja calidad. Explica que mientras la detección de gas es casi inmediata gracias al olfato (menos de 5 minutos), las fugas de agua son más engañosas y pueden tardar hasta una semana en manifestarse mediante salitre o manchas en las paredes. Dado su perfil técnico, él mismo asume el rol de mantenimiento en el hogar para evitar gastos externos. Sin embargo, reconoce las limitaciones de la inspección manual y se muestra muy a favor de implementar sistemas basados en sensores (IoT) que alerten sobre roturas internas no visibles. Propone que este tipo de tecnología debería comercializarse bajo un modelo de suscripción atractivo y destaca que su principal valor sería la tranquilidad y la respuesta inmediata ante emergencias que podrían escalar a desastres.
+
+##### Entrevista 3 - Segmento: Hogares
+
+**Datos del Entrevistado:**
+- Edad: 20
+- Nombre: Frank Serrano
+- Ocupación: Estudiante Ing Software
+- Distrito: Santiago de Surco
+
+**Evidencia:**
+- URL: [Entrevista - 3](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202411378_upc_edu_pe/IQCzx8x7QA6FSruSB6l-3xysAbDrym3Es1cHPQIuMX99_28?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=NNWf3P)
+- Duración video: 6:56
+- Screenshot: ![Entrevistado - 3](https://upcedupe-my.sharepoint.com/:i:/g/personal/u202411378_upc_edu_pe/IQAP2_9c0JH3R7nHQiJn_N7GAVdz2Hyrkc2ITo6BuXwAgs4?e=tkbRA8)
+
+**<u>Resumen de la entrevista:</u>**
+El entrevistado es un joven de 20 años, estudiante de Ingeniería de Software, que reside en un hogar donde las fugas de agua ocurren con una frecuencia de cada tres o cuatro meses. Durante la charla, menciona que suele notar el problema de manera reactiva, muchas veces ignorando las primeras señales hasta que el daño es evidente a través de charcos o humedad excesiva. Su gestión actual es mixta: intenta realizar reparaciones menores por cuenta propia, pero debe recurrir a técnicos especializados cuando el problema afecta la estructura interna, lo que ha derivado en costos elevados como el cambio de tuberías o pisos dañados. En cuanto a la tecnología, Frank se muestra muy interesado en una solución de monitoreo en tiempo real, siempre que el costo sea accesible y la interfaz permita personalizar o modelar el plano de su hogar para una mejor ubicación de las averías. Su actitud es pragmática, priorizando la prevención económica y la facilidad de uso de una aplicación móvil.
+
+
+##### Entrevista 1 – Segmento: Profesionales de Infraestructura
+
+**Datos del Entrevistado:**
+- Edad: 22
+- Nombre: Leonardo Daniel Sotelo de la Cruz
+- Ocupación: Practicante de Ingeniería Civil del área de Infraestructura en la Municipalidad de La Molina
+- Distrito: La Molina
+
+**Evidencia:**
+- URL: [Entrevista_Leonardo_Daniel](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202413930_upc_edu_pe/IQAACV_KLKrVQ4mW-fkDJBhjAdEzO8O66oc0hGDoY-FjbTI?e=cEBinc)
+- Duración video: 7:44
+- Screenshot: 
+  ![Entrevistado-1](https://upcedupe-my.sharepoint.com/:i:/g/personal/u202411378_upc_edu_pe/IQCQGEfRWVH6TLcr3I0c7lP5Aakp02sv6gcUb_jZen03Ib8?e=K3w4YT)
+
+
+**<u>Resumen de la entrevista:</u>**
+Leonardo es un practicante de Ingeniería Civil que trabaja en el área de infraestructura de una municipalidad, donde participa en la supervisión de redes de agua y gestión de incidencias. Desde su experiencia, el monitoreo actual es principalmente reactivo, ya que no se cuenta con sistemas en tiempo real, dependiendo en gran medida de inspecciones manuales y reportes de los ciudadanos.
+
+Señala que las fugas de agua son frecuentes, especialmente en zonas con tuberías antiguas, y muchas veces no son visibles de inmediato, lo que genera pérdidas acumulativas. La detección suele realizarse de forma visual o cuando los vecinos reportan problemas, lo que retrasa la intervención. Además, los tiempos de respuesta pueden variar desde horas hasta varios días debido a la coordinación con entidades externas.
+
+Reconoce que el uso de tecnología es limitado y que la falta de sensores o sistemas inteligentes reduce la capacidad de prevención. Sin embargo, muestra una actitud positiva hacia soluciones basadas en IoT, destacando que permitirían detectar fallas de manera temprana, mejorar la eficiencia y optimizar la toma de decisiones.
+
+Finalmente, menciona que los principales retos para implementar estas soluciones son el presupuesto, la capacitación del personal y la integración con sistemas existentes. A pesar de ello, considera que su principal valor sería mejorar la gestión de recursos, reducir pérdidas y brindar un servicio más eficiente a la comunidad.
+
+###### Entrevista 2 – Segmento: Profesionales de Infraestructura
+
+**Datos del Entrevistado:**
+- Edad: 22
+- Nombre: Pool Enrique Guevara García
+- Ocupación: Practicante de Ingeniería Civil del área de Infraestructura y Servicios Públicos en la Municipalidad de Ate
+- Distrito: ATE
+
+**Evidencia:**
+- URL: [Entrevista_Pool_Enrique](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202413930_upc_edu_pe/IQDfxdo8pQ9SQJk2KH4ElHBpASUK09i9Wp0YcqIypn83PuY?e=GPSgeU)
+- Duración video: 7:12
+- Screenshot: 
+  ![Entrevistado-1](https://upcedupe-my.sharepoint.com/:i:/g/personal/u202411378_upc_edu_pe/IQCQGEfRWVH6TLcr3I0c7lP5Aakp02sv6gcUb_jZen03Ib8?e=K3w4YT)
+
+
+**<u>Resumen de la entrevista:</u>**
+Pool, practicante de Ingeniería Civil en la Municipalidad de Ate, participa en actividades relacionadas con la supervisión de redes de agua y la gestión de incidencias en servicios públicos. Desde su experiencia, comenta que el control de estas redes se realiza principalmente de forma reactiva, apoyándose en inspecciones y en los reportes de los ciudadanos, debido a la ausencia de sistemas que permitan un monitoreo continuo en tiempo real.
+
+Indica que las fugas son un problema recurrente, sobre todo en sectores con infraestructura antigua o intervenida sin planificación adecuada. Muchas de estas fallas no se detectan rápidamente, lo que incrementa las pérdidas de agua y afecta el rendimiento del sistema. La identificación de estas fugas suele basarse en observaciones directas, como humedad o baja presión, lo que retrasa la respuesta ante el problema. Además, el tiempo de solución varía según la complejidad, pudiendo extenderse por varios días.
+
+También resalta que el uso de herramientas tecnológicas es limitado, lo que dificulta anticiparse a los problemas. Sin embargo, muestra una postura favorable hacia la incorporación de soluciones basadas en IoT, ya que permitirían un monitoreo constante, una detección más rápida de fallas y una mejor toma de decisiones.
+
+Finalmente, menciona que existen barreras como el presupuesto, la capacitación del personal y la adaptación a infraestructuras antiguas. Aun así, considera que implementar estas tecnologías contribuiría a optimizar recursos, disminuir pérdidas y mejorar la calidad del servicio para la población.
+
+######  Entrevista 3 – Segmento: Profesionales de Infraestructura
+
+**Datos del Entrevistado:**
+- Edad: 22
+- Nombre: Eduard Rojas
+- Ocupación: Practicante de Ingeniería Civil del área de mantenimiento del JW Marriott Hotel
+- Distrito: San Isidro
+
+**Evidencia:**
+- URL del video: [Entrevista-Eduardo-Rojas](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202413930_upc_edu_pe/IQDh1SBPb7DSQ73erb_Z8gX_AW--6ocemaj16SMFlCVYJkg?e=BovAyo)
+- Duración: 05:06
+- Screenshot:
+
+**<u>Resumen de la entrevista:</u>**
+El entrevistado es un joven trabajador del área de mantenimiento en un hotel de alta categoría, encargado de supervisar el estado de las instalaciones, especialmente redes de agua y gas. Durante la entrevista, menciona que las fugas de agua son los problemas más frecuentes, principalmente en tuberías internas de habitaciones, mientras que las fugas de gas son menos comunes pero más críticas debido al riesgo que representan.
+En cuanto a la gestión actual, señala que el monitoreo se realiza de manera manual y reactiva, dependiendo en gran parte de reportes del personal como housekeeping, recepción o incluso de los propios huéspedes. Indica que los incidentes ocurren aproximadamente una o dos veces al mes, incrementándose en temporadas de alta ocupación.
+El impacto de estas fallas en la experiencia del cliente es significativo, ya que pueden generar incomodidades, cambios de habitación e incluso afectar la percepción de calidad del servicio. Por ello, el hotel cuenta con un plan de mantenimiento preventivo basado en revisiones periódicas y capacitación del personal para detectar señales tempranas.
+Respecto a la tecnología, menciona que actualmente no cuentan con sistemas automatizados ni monitoreo en tiempo real, lo que limita la capacidad de respuesta rápida. Sin embargo, muestra una actitud abierta hacia la implementación de soluciones tecnológicas como sistemas basados en IoT, destacando que serían útiles para detectar fugas de manera temprana y mejorar la eficiencia del trabajo.
+En términos de personalidad, el entrevistado se muestra práctico, responsable y orientado a la solución de problemas, con interés en mejorar los procesos del área. Está familiarizado con el uso de tecnología básica y dispositivos móviles, los cuales considera clave para recibir alertas en tiempo real.
+Finalmente, señala que los principales beneficios esperados de una solución tecnológica incluyen una respuesta más rápida, reducción de riesgos, disminución de costos de reparación y mejora en la satisfacción del cliente.
+
+###### Entrevista 4 – Segmento: Profesionales de Infraestructura
+
+**Datos del Entrevistado:**
+- Nombre: Fabián Raimundo
+- Edad: 23
+- Distrito: Cercado de Lima
+- Ocupación: Practicante del área de Gestión y Servicios – Hotel Sheraton
+
+**Evidencia:**
+- URL: [Entrevista_Fabián_Raimundo](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202413930_upc_edu_pe/IQDawspRWjtiR5y7UR6qjti4AcwNYWIz-ajJLLVrggxK-cQ?e=8IlNqo)
+- Duración video: 07:26
+- Screenshot: 
+  ![Entrevistado-1](https://upcedupe-my.sharepoint.com/:i:/g/personal/u202411378_upc_edu_pe/IQCQGEfRWVH6TLcr3I0c7lP5Aakp02sv6gcUb_jZen03Ib8?e=K3w4YT)
+
+
+**<u>Resumen de la entrevista:</u>**
+El entrevistado es un practicante del área de gestión y servicios en un hotel, donde participa en la supervisión y apoyo a las operaciones relacionadas con el mantenimiento y la experiencia del cliente. Durante la entrevista, menciona que los problemas relacionados con fugas de agua y gas sí ocurren, aunque no con alta frecuencia. Las fugas de agua son más comunes debido al desgaste natural de las instalaciones, mientras que las fugas de gas son menos frecuentes, pero consideradas críticas, especialmente en áreas como el restaurante, donde el riesgo es mayor.
+Respecto a la frecuencia, indica que estos incidentes se presentan de manera ocasional, principalmente asociados al deterioro de las tuberías. La detección de estos problemas se realiza de manera manual, a través de la observación del personal de mantenimiento y limpieza, quienes identifican señales como humedad, olores o ruidos extraños. En algunos casos, los huéspedes también reportan inconvenientes al finalizar su estadía.
+El impacto en la experiencia del cliente es relevante, ya que estas fallas pueden generar incomodidad, interrupciones en el descanso e incluso desconfianza en el servicio, lo que podría llevar a los clientes a optar por otros hoteles. Por ello, el establecimiento aplica medidas de mantenimiento preventivo, mediante revisiones periódicas de tuberías, conexiones y equipos. Sin embargo, el entrevistado reconoce que estas acciones no siempre son suficientes.
+En cuanto a la tecnología, menciona que actualmente cuentan con un sistema de monitoreo, pero este no es completamente eficiente, por lo que aún dependen en gran medida de inspecciones manuales y supervisión constante. Existe una intención de avanzar hacia un sistema más automatizado, lo que evidencia una transición tecnológica en proceso.
+La gestión del mantenimiento se realiza mediante cronogramas establecidos y un equipo encargado de atender incidencias, aunque en muchos casos el enfoque sigue siendo reactivo. El entrevistado destaca que evitar interrupciones en el servicio es fundamental, ya que la satisfacción del cliente y la reputación del hotel son prioridades clave.
+En relación con soluciones tecnológicas, muestra una actitud positiva hacia la implementación de sistemas con alertas en tiempo real, considerando que permitirían actuar de forma inmediata ante cualquier tipo de falla. Entre las funcionalidades clave, menciona la necesidad de alertas en tiempo real, historial de incidencias, reportes detallados y facilidad de uso.
+Desde su perspectiva, el hotel estaría dispuesto a invertir en este tipo de soluciones, aunque reconoce que estas decisiones dependen del área administrativa. Finalmente, señala que los principales beneficios esperados incluyen la detección temprana de fallas, reducción en los tiempos de respuesta, optimización del trabajo, mejora en la experiencia del cliente y disminución de costos a largo plazo.
+En cuanto a características personales, el entrevistado muestra una actitud analítica y orientada a la mejora continua, con apertura al uso de nuevas tecnologías. Utiliza canales de comunicación internos del hotel y dispositivos digitales básicos, lo que facilita la adopción de soluciones tecnológicas como sistemas de monitoreo automatizados.
+
+###### Entrevista 5 – Segmento: Profesionales de Infraestructura
+
+**Datos del Entrevistado:**
+- Edad: 21
+- Nombre: Álvaro Jordán Villa
+- Ocupación: Practicante de Ingeniería Civil - Área de mantenimiento en el Hotel El Pardo Lima
+- Distrito: Santiago de Surco
+
+**Evidencia:**
+- URL: [Entrevista_Álvaro_Jordán_Villa](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202413930_upc_edu_pe/IQDCfKgvsJeSQ5iSLTGtwZuBAdD3tSG00wgIiM6258CkGV0?e=g4vMv6)
+- Duración video: 4:29
+- Screenshot: 
+  ![Entrevistado-1](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202413930_upc_edu_pe/IQDh1SBPb7DSQ73erb_Z8gX_AW--6ocemaj16SMFlCVYJkg?e=BovAyo)
+
+
+**<u>Resumen de la entrevista:</u>**
+Álvaro, practicante de mantenimiento en un hotel de Miraflores, comenta que las fugas de agua son los problemas más frecuentes debido al desgaste de las tuberías, mientras que las de gas son menos comunes, pero de mayor riesgo. La detección depende principalmente de reportes del personal o huéspedes, lo que evidencia un enfoque reactivo.
+
+De tal manera, estos incidentes afectan la experiencia del cliente y la reputación del hotel, por lo que se realizan mantenimientos preventivos, aunque no siempre permiten anticipar fallas. Actualmente no cuentan con monitoreo en tiempo real, lo que limita la detección temprana.
+
+Finalmente, muestra una actitud positiva hacia soluciones basadas en IoT, destacando que permitirían alertas inmediatas, mejor control del sistema y una reducción de riesgos, costos y pérdidas.
+
+
+
 ### 2.2.3. Análisis de entrevistas 
 ## 2.3. Needfinding
 ### 2.3.1. User Personas 
@@ -623,7 +800,28 @@ text.
 ### 2.3.3. User Journey Mapping 
 ### 2.3.4. Empathy Mapping
 ## 2.4. Big Picture Event Storming
+
+  #### Introducción:
+  Durante esta primera iteración del proyecto hemos logrado avanzar de una manera sólida identificando diversos usuarios y segmentos objetivos, así como posibles tácticas que usaremos con los competidores y cómo armaremos el Lean UX. Terminando por realizar el diseño de entrevistas y su posterior registro.
+
+
+  #### Resumen del Proceso Realizado:
+  El proceso realizado (hasta ahora) por el equipo ha sido esencial para la creación del proyecto, pasando por iteraciones en los diferentes capítulos, logrando identificar partes clave como los competidores, los segmentos objetivos, los users, etc. Para esto hemos seguido frameworks y guías como los “Ubiquitous Language models”
+
+
+
 ## 2.5. Ubiquitous Language
+
+  A continuación, se presenta un glosario de términos clave del dominio que serán utilizados en el desarrollo de la plataforma Low-Cortisol, orientada a la gestión inteligente
+  del agua en hogares y negocios. Los términos están en inglés, con su equivalente en español entre paréntesis, acompañados de una definición clara en español
+
+  - Water Consumption (Consumo de agua): Cantidad total de agua utilizada en un hogar o negocio en un periodo determinado.
+  - Water Waste (Desperdicio de agua): Agua utilizada de manera ineficiente o pérdida por fugas, goteos o malos hábitos de uso.
+  - Critical Point (Punto crítico): Zona, dispositivo o instalación donde es necesario realizar un monitoreo constante del uso de agua para evitar pérdidas o exceso de consumo.
+  - Real-Time Monitoring (Monitoreo en tiempo real): Seguimiento instantáneo del consumo de agua y estado de los dispositivos a través de sensores IoT conectados a la plataforma.
+  - Water Optimization (Optimización del agua): Conjunto de acciones y recomendaciones destinadas a mejorar la eficiencia en el uso del recurso
+ 
+
 # Capitulo III: Requirements Specification
 ## 3.1. User Stories
 ## 3.2. Impact Mapping
