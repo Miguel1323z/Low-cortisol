@@ -402,30 +402,66 @@ Intuitivo, moderno, accesible, con información clara y alertas fáciles de ente
 
 ###### Hipótesis 1:
 
-text
+Creemos que, si implementamos monitoreo en tiempo real para detectar fugas de agua y gas, los usuarios podrán actuar más rápido y reducir pérdidas económicas.
 
-**Business Outcome:** text<br>
-**Users:** text<br>
-**User Outcome:** text<br>
-**Feature:** text<br>
+**Business Outcome:** Incrementar adopción del servicio y satisfacción del cliente.<br>
+**Users:** Hogares.<br>
+**User Outcome:** Detectan incidentes a tiempo y evitan daños mayores.<br>
+**Feature:** Monitoreo en tiempo real con panel de control.<br>
 
 ###### Hipótesis 2:
 
-text
+Creemos que, si el sistema envía alertas inmediatas al detectar anomalías, se reducirá el tiempo de respuesta frente a emergencias.
 
-**Business Outcome:** text<br>
-**Users:** text<br>
-**User Outcome:** text<br>
-**Feature:** text<br>
+**Business Outcome:** Mejorar percepción de valor del servicio y retención de usuarios.<br>
+**Users:** Hogares, Hoteles y Municipalidades.<br>
+**User Outcome:** Responden rápidamente ante fugas o riesgos críticos.<br>
+**Feature:** Notificaciones push, correo y alertas automáticas.<br>
 
 ###### Hipótesis 3:
 
-text
+Creemos que, si mostramos historial de consumo y reportes claros, los usuarios tomarán mejores decisiones para optimizar recursos.
 
-**Business Outcome:** text<br>
-**Users:** text<br>
-**User Outcome:** text<br>
-**Feature:** text<br>
+**Business Outcome:** Mayor uso recurrente de la plataforma.<br>
+**Users:** Hogares y Hoteles.<br>
+**User Outcome:** Controlan gastos y detectan consumos inusuales.<br>
+**Feature:** Historial, gráficas y reportes descargables.<br>
+
+###### Hipótesis 4:
+
+Creemos que, si incorporamos control remoto de válvulas, los usuarios sentirán mayor seguridad y control ante incidentes.
+
+**Business Outcome:** Diferenciación competitiva y mayor interés por planes avanzados.<br>
+**Users:** Hoteles y Municipalidades.<br>
+**User Outcome:** Reducen riesgos sin esperar intervención presencial.<br>
+**Feature:** Apertura y cierre remoto de válvulas.<br>
+
+###### Hipótesis 5:
+
+Creemos que, si ofrecemos gestión multiubicación y múltiples dispositivos, organizaciones con varias instalaciones adoptarán la solución con mayor facilidad.
+
+**Business Outcome:** Captación de clientes empresariales e institucionales.<br>
+**Users:** Hoteles y Municipalidades.<br>
+**User Outcome:** Supervisan varias zonas desde una sola plataforma.<br>
+**Feature:** Gestión por zonas y múltiples sensores.<br>
+
+###### Hipótesis 6:
+
+Creemos que, si aplicamos análisis inteligente de patrones de consumo, se podrán prevenir fallas antes de que ocurran.
+
+**Business Outcome:** Posicionamiento innovador y mayor valor percibido.<br>
+**Users:** Hoteles y Municipalidades.<br>
+**User Outcome:** Reciben advertencias tempranas y reducen incidentes repetitivos.<br>
+**Feature:** Detección temprana con IA y análisis predictivo.<br>
+
+###### Hipótesis 7:
+
+Creemos que, si la plataforma ofrece planes diferenciados según necesidad del cliente, aumentará la conversión a suscripciones pagadas.
+
+**Business Outcome:** Crecimiento sostenible de ingresos mensuales.<br>
+**Users:** Hogares, Hoteles y Municipalidades.<br>
+**User Outcome:** Contratan un plan ajustado a sus necesidades reales.<br>
+**Feature:** Plan Hogar, Plan Smart y Plan Full Service.<br>
 
 #### 1.2.2.1 Lean UX Canvas
 
