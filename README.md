@@ -257,6 +257,18 @@ Objetivo general, ABET – EAC - Student Outcome 3: Capacidad de comunicarse efe
 
 ## 1.2 *Solution Profile*
 ### 1.2.1 Antecedentes y problemática
+En la actualidad, tanto en hogares como en negocios e instituciones, el uso de tuberías para la distribución de agua y gas es fundamental. Sin embargo, la mayoría de estos sistemas carecen de mecanismos de monitoreo en tiempo real, lo que dificulta la detección oportuna de fugas o fallas.
+A nivel mundial, se han desarrollado soluciones basadas en tecnología IoT para el monitoreo de recursos, pero su adopción aún es limitada en muchos contextos debido a costos, falta de conocimiento o baja accesibilidad tecnológica.
+En el contexto local, es común que los usuarios detecten fugas de agua o gas de forma tardía, cuando ya existen consecuencias como:
+
+-Incremento excesivo en los recibos de servicios.  
+-Daños en infraestructura (paredes, pisos, tuberías).  
+-Riesgos para la salud (intoxicación por gas).  
+-Posibles accidentes graves como explosiones.
+
+Además, la dificultad para encontrar técnicos confiables de forma inmediata agrava la situación, incrementando el tiempo de respuesta ante emergencias. 
+Por ello, se identifica la necesidad de una solución tecnológica que permita el monitoreo continuo, la detección temprana de anomalías y la respuesta rápida ante incidentes.
+
 
 ## 5W & 2H
 ## Objetivos
