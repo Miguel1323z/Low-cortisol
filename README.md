@@ -76,7 +76,7 @@ A continuación, se detallan los repositorios utilizados a lo largo del proyecto
 
 #### Link del repositorio del Reporte:
 
-- https://github.com/Miguel1323z/Low-cortisol.git
+- https://github.com/upc-pre-202610-1asi0730-2610-LCortisol/Lowcortisol-report.git
 
 #### Link del repositorio de la Landing Page:
 
@@ -487,7 +487,7 @@ text
 </tr>  
 </table>
 
-## 1.3 Segmentos objetivo
+## 1.3 Segmentos objetivos
 El proyecto busca atender a usuarios que requieren soluciones de automatización accesibles y no invasivas, con un enfoque en dos segmentos principales:
 
 - ### Segmento 1: Usuarios Residenciales (B2C).  
