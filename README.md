@@ -348,56 +348,55 @@ De esta manera, la solución no solo busca mejorar la calidad de vida de los usu
 
  + **User Assumptions:** 
 
-###### Pregunta 1
+###### ¿Quién es el usuario?
 
-text
+Personas que viven en hogares, dueños de negocios (restaurantes, hoteles) y entidades que necesitan monitorear consumo de agua y gas.
 
-###### Pregunta 2
+###### ¿Qué problemas tiene nuestro producto que debe resolver?
 
-text
+Falta de detección temprana de fugas, desconocimiento del consumo y ausencia de herramientas de monitoreo continuo.
 
-###### Pregunta 3
+###### ¿Qué características son importantes?
 
-text
+Facilidad de uso, monitoreo en tiempo real, alertas inmediatas, visualización clara de datos y control remoto.
 
-###### Pregunta 4
+###### ¿Dónde encaja nuestro producto en su vida?
 
-text
+En la gestión diaria del hogar o negocio, como una herramienta de prevención y control.
 
-###### Pregunta 5
+###### ¿Cuándo y cómo es usado?
 
-text
+De forma continua, con revisiones periódicas por parte del usuario y alertas automáticas en caso de incidentes.
 
-###### Pregunta 6
+###### ¿Cómo debe verse y comportarse el producto?
 
-text
+Intuitivo, moderno, accesible, con información clara y alertas fáciles de entender.
 
  + **Business Outcomes:**
 
-1. **title**: text
+1. **Creo que mis clientes necesitan…** Una forma rápida, automática y confiable de detectar fugas y controlar su consumo de agua y gas.
 
-2. **title**: text
+2. **Estas necesidades se pueden resolver con…** Un aplicativo conectado a sensores IoT que monitorean en tiempo real y generan alertas inteligentes.
 
-3. **title**: text
+3. **Mis clientes iniciales son…** Hogares y pequeños negocios preocupados por costos y seguridad.
 
-4. **title**: text
+4. **El valor #1 que un cliente quiere es…** Prevenir pérdidas económicas y evitar riesgos en su entorno.
 
-5. **title**: text
+5. **Beneficios adicionales…** Mayor seguridad, control remoto, historial de consumo y acceso a técnicos.
 
-6. **title**: text
+6. **Voy a adquirir clientes a través de…** Redes sociales, alianzas con empresas de servicios y recomendaciones.
 
-7. **title**: text
+7. **Mi competencia es…** Sistemas de sensores IoT y soluciones de domótica.
 
-8. **title**: text
+8. **Haré dinero a través de…** Planes de suscripción y servicios adicionales.
 
-9. **title**: text
+9. **Los venceremos porque…** Ofrecemos una solución integral, accesible y centrada en el usuario.
 
-10. **title**: text
+10. **Mayor riesgo de producto…** Que los usuarios no comprendan el funcionamiento del sistema o no instalen correctamente los sensores.
 
-11. **title**: text
+11. **Lo resolveremos con…** Guías de instalación, interfaz intuitiva y soporte desde el aplicativo.
 
-12. **title**: text
-
+12. **Otra suposición crítica…** Que los usuarios utilizarán el sistema de forma constante para monitorear su consumo.
 
 #### 1.2.2.1 Lean UX Hypothesis Statements
 
