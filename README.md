@@ -490,10 +490,76 @@ text
 ## 1.3 Segmentos objetivo
 El proyecto busca atender a usuarios que requieren soluciones de automatización accesibles y no invasivas, con un enfoque en dos segmentos principales:
 
-- Segmento 1.  
-text.
-- Segmento 2.  
-text.
+- ### Segmento 1: Usuarios Residenciales (B2C).  
+Definición:
+Personas que viven en viviendas (casas o departamentos) y buscan mejorar la seguridad del hogar y optimizar el consumo de agua y gas mediante tecnología.
+
+**Características:**
+
+Interés en tecnología (IoT, smart home)
+Uso frecuente de smartphones
+Nivel técnico bajo o medio
+Toman decisiones individuales o familiares
+
+**Necesidades clave:**
+
+Detectar fugas rápidamente
+Reducir costos en servicios
+Tener control simple desde el celular
+
+**Dolores (pain points):**
+
+Fugas detectadas tarde
+Recibos elevados
+Falta de monitoreo en tiempo real
+
+**Motivaciones:**
+
+Seguridad familiar
+Ahorro económico
+Comodidad
+
+### Segmento 2: Profesionales de Infraestructura y Gestión Operativa (B2B).  
+**Definición:**
+Personas responsables de la gestión, mantenimiento y operación de infraestructuras en organizaciones como municipalidades, hoteles, edificios o empresas.
+
+Ojo importante:
+Aquí no son “las organizaciones”, sino las personas dentro de ellas (decision makers / usuarios del sistema).
+
+Ejemplos:
+
+Administrador de hotel
+Jefe de mantenimiento
+Gestor municipal de servicios
+
+**Características:**
+
+Perfil técnico o administrativo
+Manejan múltiples instalaciones
+Toman decisiones basadas en datos
+
+**Necesidades clave:**
+
+Monitoreo centralizado
+Prevención de fallas
+Reportes y control por zonas
+
+**Dolores (pain points):**
+
+Falta de visibilidad en tiempo real
+Detección tardía de problemas
+Costos por mantenimiento reactivo
+
+**Motivaciones:**
+
+Eficiencia operativa
+Reducción de riesgos
+Cumplimiento de estándares
+
+El sistema se orienta a dos segmentos principales:  
+(1) Usuarios residenciales con interés en tecnología y seguridad del hogar, que buscan prevenir fugas y optimizar el consumo.  
+(2) Profesionales de infraestructura, mantenimiento y gestión operativa en organizaciones como municipalidades, hoteles o edificios, quienes requieren monitoreo centralizado, prevención de fallas y eficiencia en la gestión de recursos.
+
 # Capitulo II: Requirements Elicitation & Analysis
 ## 2.1 Competidores
 text. 
