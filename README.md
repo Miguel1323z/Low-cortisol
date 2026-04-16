@@ -56,7 +56,7 @@
 
 </div>
 
-</div>
+
 <div style="page-break-after: always;"></div>
 
 
@@ -239,8 +239,6 @@ Objetivo general, ABET – EAC - Student Outcome 3: Capacidad de comunicarse efe
 ### 1.1.1. Descripción de la StartUp
 
 
----
-
 ## Misión
 
 ---
@@ -260,13 +258,12 @@ Objetivo general, ABET – EAC - Student Outcome 3: Capacidad de comunicarse efe
 ## 1.2 *Solution Profile*
 ### 1.2.1 Antecedentes y problemática
 
-
 ## 5W & 2H
 ## Objetivos
 ## Restricciones
 ### 1.2.2 Lean UX Process
 #### 1.2.2.1 Lean UX Problem Statements
-text
+ 
 
 #### 1.2.2.1 Lean UX Assumptions
 
