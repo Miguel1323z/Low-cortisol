@@ -76,7 +76,7 @@ A continuación, se detallan los repositorios utilizados a lo largo del proyecto
 
 #### Link del repositorio del Reporte:
 
-- 
+- https://github.com/Miguel1323z/Low-cortisol.git
 
 #### Link del repositorio de la Landing Page:
 
