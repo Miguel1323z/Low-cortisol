@@ -250,7 +250,13 @@ Buscamos generar confianza, ahorro y seguridad en hogares y negocios, siempre co
 ## Visión
 Nuestra visión es convertirnos en la empresa líder en soluciones tecnológicas de monitoreo y prevención de fugas de agua y gas en el Perú. 
 Buscamos brindar mayor seguridad, eficiencia y tranquilidad a las personas y negocios mediante herramientas innovadoras y accesibles. Creemos que la tecnología puede prevenir incidentes, reducir desperdicios y mejorar la calidad de vida de la población.
-
+# Valores
+Nuestros valores principales son los siguientes:  
+-Innovación: Uso de tecnología moderna para resolver problemas cotidianos de forma eficiente.  
+-Seguridad: Priorizamos la protección de las personas, propiedades y negocios.  
+-Responsabilidad: Promovemos el uso adecuado de recursos como el agua y el gas.  
+-Colaboración: Valoramos el trabajo en equipo y la relación con usuarios y aliados estratégicos.  
+-Calidad: Buscamos ofrecer un servicio confiable, estable y fácil de utilizar. 
 ### 1.1.2. Perfiles de integrantes del equipo
 | **Nombre Completo del integrante**    |	**Descripcion de la carrera** | **Fotografia** | **Conocimientos y habilidades**
 | :------------------------------------ |:------------------------------------ |:------------------------------------ |:------------------------------------ |
