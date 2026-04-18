@@ -880,6 +880,414 @@ Finalmente, muestra una actitud positiva hacia soluciones basadas en IoT, destac
 
 # Capitulo III: Requirements Specification
 ## 3.1. User Stories
+<table>
+<tr>
+<th>**Epic / Story ID**</th>
+<th>**Título**</th>
+<th>**Descripción**</th>
+<th>**Criterios de Aceptación**</th>
+<th>**Relacionado con (Epic ID)**</th>
+</tr>
+
+<tr>
+<td>EP01</td>
+<td>Gestión de usuarios</td>
+<td>Epic orientado al registro, acceso, recuperación y administración de cuentas de usuario.</td>
+<td>-</td>
+<td>-</td>
+</tr>
+
+<tr>
+<td>US01</td>
+<td>Registro de usuario</td>
+<td>Como visitante, quiero crear una cuenta para acceder a la plataforma.</td>
+<td>
+<b>**Scenario 1: Registro exitoso**</b><br>
+**Given** el visitante completa los datos obligatorios válidos,<br>
+**When** solicita registrarse,<br>
+**Then** el sistema crea la cuenta correctamente.<br><br>
+
+<b>**Scenario 2: Datos incompletos**</b><br>
+**Given** faltan campos obligatorios,<br>
+**When** intenta registrarse,<br>
+**Then** el sistema informa que existen datos pendientes.
+</td>
+<td>EP01</td>
+</tr>
+
+<tr>
+<td>US02</td>
+<td>Inicio de sesión</td>
+<td>Como usuario registrado, quiero iniciar sesión para acceder a mis funciones.</td>
+<td>
+<b>**Scenario 1: Credenciales válidas**</b><br>
+**Given** el usuario ingresa credenciales correctas,<br>
+**When** solicita acceso,<br>
+**Then** el sistema permite el ingreso.<br><br>
+
+<b>**Scenario 2: Credenciales inválidas**</b><br>
+**Given** los datos no coinciden,<br>
+**When** intenta ingresar,<br>
+**Then** el sistema rechaza el acceso.
+</td>
+<td>EP01</td>
+</tr>
+
+<tr>
+<td>US03</td>
+<td>Recuperar contraseña</td>
+<td>Como usuario, quiero recuperar mi contraseña para volver a ingresar a mi cuenta.</td>
+<td>
+<b>**Scenario 1: Solicitud exitosa**</b><br>
+**Given** el correo está registrado,<br>
+**When** el usuario solicita recuperación,<br>
+**Then** el sistema envía instrucciones al correo.
+</td>
+<td>EP01</td>
+</tr>
+
+<tr>
+<td>US04</td>
+<td>Cerrar sesión</td>
+<td>Como usuario, quiero cerrar sesión para proteger mi cuenta en dispositivos compartidos.</td>
+<td>
+<b>**Scenario 1: Logout**</b><br>
+**Given** el usuario tiene sesión iniciada,<br>
+**When** selecciona cerrar sesión,<br>
+**Then** el sistema finaliza la sesión activa.
+</td>
+<td>EP01</td>
+</tr>
+
+<tr>
+<td>US05</td>
+<td>Actualizar perfil</td>
+<td>Como usuario, quiero editar mis datos personales para mantener mi información actualizada.</td>
+<td>
+<b>**Scenario 1: Actualización exitosa**</b><br>
+**Given** el usuario accede a perfil,<br>
+**When** guarda nuevos datos válidos,<br>
+**Then** el sistema actualiza la información registrada.
+</td>
+<td>EP01</td>
+</tr>
+
+<tr>
+<td>EP02</td>
+<td>Monitoreo inteligente</td>
+<td>Epic orientado a supervisión de sensores, consumo y estado de instalaciones.</td>
+<td>-</td>
+<td>-</td>
+</tr>
+
+<tr>
+<td>US06</td>
+<td>Visualizar estado en tiempo real</td>
+<td>Como usuario, quiero ver el estado actual de agua y gas para detectar anomalías rápidamente.</td>
+<td>
+<b>**Scenario 1: Lecturas disponibles**</b><br>
+**Given** existen dispositivos vinculados,<br>
+**When** el usuario consulta el panel,<br>
+**Then** el sistema muestra lecturas actualizadas de consumo y estado.
+</td>
+<td>EP02</td>
+</tr>
+
+<tr>
+<td>US07</td>
+<td>Recibir alertas automáticas</td>
+<td>Como usuario, quiero recibir alertas inmediatas ante fugas o riesgos.</td>
+<td>
+<b>**Scenario 1: Evento crítico**</b><br>
+**Given** se detecta una anomalía,<br>
+**When** ocurre el evento,<br>
+**Then** el sistema envía una notificación automática al usuario.
+</td>
+<td>EP02</td>
+</tr>
+
+<tr>
+<td>US08</td>
+<td>Historial de consumo</td>
+<td>Como usuario, quiero revisar consumos anteriores para identificar excesos o patrones anormales.</td>
+<td>
+<b>**Scenario 1: Historial disponible**</b><br>
+**Given** existen registros históricos,<br>
+**When** el usuario consulta reportes,<br>
+**Then** el sistema muestra el historial almacenado.
+</td>
+<td>EP02</td>
+</tr>
+
+<tr>
+<td>EP03</td>
+<td>Control y respuesta</td>
+<td>Epic orientado a acciones correctivas y soporte ante incidentes.</td>
+<td>-</td>
+<td>-</td>
+</tr>
+
+<tr>
+<td>US09</td>
+<td>Cerrar válvula remotamente</td>
+<td>Como usuario con plan compatible, quiero cerrar una válvula remotamente para reducir riesgos.</td>
+<td>
+<b>**Scenario 1: Acción autorizada**</b><br>
+**Given** el usuario tiene permisos y un dispositivo compatible,<br>
+**When** solicita el cierre remoto,<br>
+**Then** el sistema ejecuta la acción y registra el evento.<br><br>
+
+<b>**Scenario 2: Sin permisos**</b><br>
+**Given** el usuario no cuenta con permisos suficientes,<br>
+**When** intenta la acción,<br>
+**Then** el sistema bloquea la solicitud.
+</td>
+<td>EP03</td>
+</tr>
+
+<tr>
+<td>US10</td>
+<td>Solicitar soporte técnico</td>
+<td>Como usuario, quiero solicitar ayuda técnica para resolver incidencias complejas.</td>
+<td>
+<b>**Scenario 1: Solicitud generada**</b><br>
+**Given** existe una incidencia registrada,<br>
+**When** solicita soporte,<br>
+**Then** el sistema genera la solicitud correspondiente.
+</td>
+<td>EP03</td>
+</tr>
+
+<tr>
+<td>EP04</td>
+<td>Gestión de Suscripciones y Planes</td>
+<td>Epic orientado a planes comerciales, beneficios y suscripciones.</td>
+<td>-</td>
+<td>-</td>
+</tr>
+
+<tr>
+<td>US11</td>
+<td>Visualizar planes disponibles</td>
+<td>Como visitante, quiero visualizar los planes disponibles para comparar beneficios y elegir el más adecuado.</td>
+<td>
+<b>**Scenario 1: Consulta de planes**</b><br>
+**Given** el visitante accede a la sección de planes,<br>
+**When** el sistema carga la información,<br>
+**Then** se muestran los planes con sus beneficios y precios.<br><br>
+
+<b>**Scenario 2: Información clara**</b><br>
+**Given** existen varios planes registrados,<br>
+**When** el visitante revisa la información,<br>
+**Then** cada plan presenta características diferenciadas.
+</td>
+<td>EP04</td>
+</tr>
+
+<tr>
+<td>US12</td>
+<td>Suscribirse a un plan</td>
+<td>Como usuario registrado, quiero contratar un plan para acceder a funciones premium.</td>
+<td>
+<b>**Scenario 1: Suscripción exitosa**</b><br>
+**Given** el usuario tiene una cuenta activa,<br>
+**When** selecciona un plan y confirma la compra,<br>
+**Then** el sistema activa la suscripción correspondiente.<br><br>
+
+<b>**Scenario 2: Error en pago**</b><br>
+**Given** el método de pago es rechazado,<br>
+**When** el usuario intenta completar la compra,<br>
+**Then** el sistema informa que no fue posible procesar la suscripción.
+</td>
+<td>EP04</td>
+</tr>
+
+<tr>
+<td>US13</td>
+<td>Cambiar de plan</td>
+<td>Como usuario suscrito, quiero cambiar de plan para adaptar el servicio a mis nuevas necesidades.</td>
+<td>
+<b>**Scenario 1: Upgrade**</b><br>
+**Given** el usuario tiene un plan activo,<br>
+**When** selecciona un plan superior,<br>
+**Then** el sistema actualiza los beneficios disponibles.
+</td>
+<td>EP04</td>
+</tr>
+
+<tr>
+<td>EP05</td>
+<td>Landing Page y Conversión</td>
+<td>Epic orientado al sitio público de captación de clientes.</td>
+<td>-</td>
+<td>-</td>
+</tr>
+
+<tr>
+<td>US14</td>
+<td>Ver propuesta de valor</td>
+<td>Como visitante, quiero entender rápidamente el beneficio principal del producto para decidir si me interesa.</td>
+<td>
+<b>**Scenario 1: Contenido visible**</b><br>
+**Given** el visitante ingresa al sitio,<br>
+**When** se carga la página principal,<br>
+**Then** se presenta claramente la propuesta de valor del producto.
+</td>
+<td>EP05</td>
+</tr>
+
+<tr>
+<td>US15</td>
+<td>Navegar por secciones informativas</td>
+<td>Como visitante, quiero revisar información del producto para conocer funcionalidades y beneficios.</td>
+<td>
+<b>**Scenario 1: Navegación**</b><br>
+**Given** el visitante accede al menú principal,<br>
+**When** selecciona una sección,<br>
+**Then** el sistema desplaza o redirige al contenido solicitado.
+</td>
+<td>EP05</td>
+</tr>
+
+<tr>
+<td>US16</td>
+<td>Redirección a registro</td>
+<td>Como visitante, quiero registrarme desde la Landing Page para comenzar a usar la plataforma.</td>
+<td>
+<b>**Scenario 1: CTA funcional**</b><br>
+**Given** el visitante visualiza un botón de acción,<br>
+**When** hace clic en registrarse,<br>
+**Then** el sistema lo redirige al formulario de registro.
+</td>
+<td>EP05</td>
+</tr>
+
+<tr>
+<td>EP06</td>
+<td>Gestión Operativa Multiubicación</td>
+<td>Epic orientado a organizaciones con múltiples sedes, zonas o instalaciones.</td>
+<td>-</td>
+<td>-</td>
+</tr>
+
+<tr>
+<td>US17</td>
+<td>Registrar múltiples sedes</td>
+<td>Como administrador de organización, quiero registrar varias sedes para monitorear diferentes instalaciones.</td>
+<td>
+<b>**Scenario 1: Registro correcto**</b><br>
+**Given** el administrador tiene permisos activos,<br>
+**When** registra una nueva sede,<br>
+**Then** la sede queda disponible en el sistema.
+</td>
+<td>EP06</td>
+</tr>
+
+<tr>
+<td>US18</td>
+<td>Filtrar datos por sede</td>
+<td>Como gestor operativo, quiero filtrar información por sede para analizar incidencias específicas.</td>
+<td>
+<b>**Scenario 1: Filtro aplicado**</b><br>
+**Given** existen varias sedes registradas,<br>
+**When** el usuario selecciona una sede,<br>
+**Then** el sistema muestra solo la información asociada.
+</td>
+<td>EP06</td>
+</tr>
+
+<tr>
+<td>US19</td>
+<td>Ver resumen general</td>
+<td>Como gestor operativo, quiero visualizar un resumen consolidado para tomar decisiones rápidas.</td>
+<td>
+<b>**Scenario 1: Dashboard global**</b><br>
+**Given** existen múltiples sedes activas,<br>
+**When** el usuario ingresa al panel general,<br>
+**Then** el sistema muestra métricas consolidadas.
+</td>
+<td>EP06</td>
+</tr>
+
+<tr>
+<td>EP07</td>
+<td>API y Backend</td>
+<td>Epic orientado a servicios RESTful y lógica del sistema.</td>
+<td>-</td>
+<td>-</td>
+</tr>
+
+<tr>
+<td>TS01</td>
+<td>API registrar usuario</td>
+<td>Como Developer, quiero consumir un endpoint de registro para crear cuentas desde clientes externos.</td>
+<td>
+<b>**Scenario 1: Request válido**</b><br>
+**Given** el request contiene datos válidos,<br>
+**When** se envía al endpoint de registro,<br>
+**Then** la API responde con creación exitosa.<br><br>
+
+<b>**Scenario 2: Request inválido**</b><br>
+**Given** faltan datos requeridos,<br>
+**When** se envía la solicitud,<br>
+**Then** la API responde con error de validación.
+</td>
+<td>EP07</td>
+</tr>
+
+<tr>
+<td>TS02</td>
+<td>API obtener sensores</td>
+<td>Como Developer, quiero consultar lecturas de sensores mediante la API.</td>
+<td>
+<b>**Scenario 1: Consulta exitosa**</b><br>
+**Given** existe un dispositivo registrado,<br>
+**When** se consulta el endpoint correspondiente,<br>
+**Then** la API devuelve el estado actual del sensor.
+</td>
+<td>EP07</td>
+</tr>
+
+<tr>
+<td>TS03</td>
+<td>API obtener sensores por usuario</td>
+<td>Como Developer, quiero obtener todos los sensores asociados a un usuario para que el frontend muestre los dispositivos conectados.</td>
+<td>
+<b>**Scenario 1: Consulta exitosa**</b><br>
+**Given** el usuario existe,<br>
+**When** se envía la solicitud,<br>
+**Then** la API devuelve la lista de sensores asociados.
+</td>
+<td>EP07</td>
+</tr>
+
+<tr>
+<td>TS04</td>
+<td>API generar alerta</td>
+<td>Como Developer, quiero registrar alertas mediante la API para almacenar incidentes y notificar eventos detectados.</td>
+<td>
+<b>**Scenario 1: Alerta creada**</b><br>
+**Given** se proporciona información válida de la alerta,<br>
+**When** la solicitud es procesada,<br>
+**Then** la API registra la alerta y devuelve confirmación.
+</td>
+<td>EP07</td>
+</tr>
+
+<tr>
+<td>TS05</td>
+<td>API consultar historial</td>
+<td>Como Developer, quiero obtener el historial de consumo para que el frontend genere gráficas y reportes.</td>
+<td>
+<b>**Scenario 1: Historial disponible**</b><br>
+**Given** existen registros almacenados,<br>
+**When** se ejecuta la solicitud,<br>
+**Then** la API devuelve los datos históricos ordenados por fecha.
+</td>
+<td>EP07</td>
+</tr>
+
+</table>
 ## 3.2. Impact Mapping
 ## 3.3. Product Backlog
 # Capitulo IV: Product Design
